@@ -1,0 +1,1683 @@
+,title,tag,sentiment_score
+0,Toy Story (1995),ToyStory,0.43382
+1,GoldenEye (1995),GoldenEye,-0.17804
+2,Four Rooms (1995),FourRooms,0.0
+3,Get Shorty (1995),GetShorty,0.6595
+4,Copycat (1995),Copycat,0.17978
+5,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),ShanghaiTriad,0.0
+6,Twelve Monkeys (1995),TwelveMonkeys,0.307625
+7,Babe (1995),Babe,0.2008
+8,Dead Man Walking (1995),DeadManWalking,0.04755
+9,Richard III (1995),RichardIII,0.25952
+10,Seven (Se7en) (1995),Seven,0.42878
+11,Mighty Aphrodite (1995),MightyAphrodite,0.0
+12,"Postino, Il (1994)",PostinoIl,0.0
+13,Mr. Holland's Opus (1995),Mr.Holland'sOpus,0.0
+14,French Twist (Gazon maudit) (1995),FrenchTwist,0.0
+15,From Dusk Till Dawn (1996),FromDuskTillDawn,-0.10792
+16,Antonia's Line (1995),Antonia'sLine,0.0
+17,Angels and Insects (1995),AngelsandInsects,0.0
+18,Muppet Treasure Island (1996),MuppetTreasureIsland,-0.017833333
+19,Braveheart (1995),Braveheart,0.33136
+20,Taxi Driver (1976),TaxiDriver,-0.25238
+21,Rumble in the Bronx (1995),RumbleintheBronx,-0.125
+22,Bad Boys (1995),BadBoys,0.39116
+23,Apollo 13 (1995),Apollo13,0.24474
+24,Batman Forever (1995),BatmanForever,0.26554
+25,Belle de jour (1967),Belledejour,0.11864
+26,Crimson Tide (1995),CrimsonTide,0.57162
+27,Crumb (1994),Crumb,0.08692
+28,Desperado (1995),Desperado,0.24408
+29,Free Willy 2: The Adventure Home (1995),FreeWilly2:TheAdventureHome,0.0
+30,Mad Love (1995),MadLove,0.38976
+31,Nadja (1994),Nadja,0.3082
+32,Strange Days (1995),StrangeDays,-0.16242
+33,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",ToWongFooThanksforEverything!JulieNewmar,0.0
+34,Billy Madison (1995),BillyMadison,-0.00388
+35,Clerks (1994),Clerks,0.12344
+36,Disclosure (1994),Disclosure,0.11522
+37,Dolores Claiborne (1994),DoloresClaiborne,-0.10205
+38,Eat Drink Man Woman (1994),EatDrinkManWoman,0.8979
+39,Exotica (1994),Exotica,0.15928
+40,Ed Wood (1994),EdWood,0.2614
+41,Hoop Dreams (1994),HoopDreams,0.21004
+42,I.Q. (1994),I.Q.,0.22054
+43,Star Wars (1977),StarWars,-0.15102
+44,Legends of the Fall (1994),LegendsoftheFall,0.68434
+45,Natural Born Killers (1994),NaturalBornKillers,-0.43878
+46,Outbreak (1995),Outbreak,-0.2809
+47,Pulp Fiction (1994),PulpFiction,0.3395
+48,Priest (1994),Priest,-0.06128
+49,Quiz Show (1994),QuizShow,0.35228
+50,Three Colors: Red (1994),ThreeColors:Red,0.0
+51,Three Colors: Blue (1993),ThreeColors:Blue,0.0
+52,Three Colors: White (1994),ThreeColors:White,0.0
+53,Stargate (1994),Stargate,0.00776
+54,What's Eating Gilbert Grape (1993),What'sEatingGilbertGrape,0.0
+55,While You Were Sleeping (1995),WhileYouWereSleeping,0.14206
+56,Ace Ventura: Pet Detective (1994),AceVentura:PetDetective,0.0
+57,Forrest Gump (1994),ForrestGump,-0.05514
+58,Four Weddings and a Funeral (1994),FourWeddingsandaFuneral,0.65238
+59,Maverick (1994),Maverick,0.4796
+60,Faster Pussycat! Kill! Kill! (1965),FasterPussycat!Kill!Kill!,-0.8271
+61,Brother Minister: The Assassination of Malcolm X (1994),BrotherMinister:TheAssassinationofMalcolmX,0.0
+62,Carlito's Way (1993),Carlito'sWay,0.52462
+63,Free Willy (1993),FreeWilly,0.30664
+64,Hot Shots! Part Deux (1993),HotShots!PartDeux,0.0
+65,Jurassic Park (1993),JurassicPark,-0.02104
+66,Much Ado About Nothing (1993),MuchAdoAboutNothing,0.19532
+67,Robert A. Heinlein's The Puppet Masters (1994),RobertA.Heinlein'sThePuppetMasters,0.0
+68,Searching for Bobby Fischer (1993),SearchingforBobbyFischer,-0.128
+69,Sleepless in Seattle (1993),SleeplessinSeattle,0.23264
+70,Blade Runner (1982),BladeRunner,-0.27672
+71,So I Married an Axe Murderer (1993),SoIMarriedanAxeMurderer,0.0
+72,True Romance (1993),TrueRomance,0.21852
+73,Welcome to the Dollhouse (1995),WelcometotheDollhouse,0.4404
+74,Home Alone (1990),HomeAlone,0.1721
+75,Aladdin (1992),Aladdin,0.07552
+76,Terminator 2: Judgment Day (1991),Terminator2:JudgmentDay,0.28814
+77,Dances with Wolves (1990),DanceswithWolves,0.67336
+78,Snow White and the Seven Dwarfs (1937),SnowWhiteandtheSevenDwarfs,0.21398
+79,Fargo (1996),Fargo,0.10826
+80,Heavy Metal (1981),HeavyMetal,0.4393
+81,All Dogs Go to Heaven 2 (1996),AllDogsGotoHeaven2,0.0
+82,Theodore Rex (1995),TheodoreRex,-0.5423
+83,Sgt. Bilko (1996),Sgt.Bilko,0.00744
+84,Diabolique (1996),Diabolique,0.60848
+85,Moll Flanders (1996),MollFlanders,0.26335
+86,Kids in the Hall: Brain Candy (1996),KidsintheHall:BrainCandy,0.0
+87,Mystery Science Theater 3000: The Movie (1996),MysteryScienceTheater3000:TheMovie,0.0
+88,Operation Dumbo Drop (1995),OperationDumboDrop,0.0
+89,Flipper (1996),Flipper,0.16804
+90,Wallace & Gromit: The Best of Aardman Animation (1996),Wallace&Gromit:TheBestofAardmanAnimation,0.0
+91,Cold Comfort Farm (1995),ColdComfortFarm,0.2154
+92,Twister (1996),Twister,-0.06452
+93,Maya Lin: A Strong Clear Vision (1994),MayaLin:AStrongClearVision,0.0
+94,Striptease (1996),Striptease,0.16798
+95,Independence Day (ID4) (1996),IndependenceDay,0.3552
+96,Lone Star (1996),LoneStar,0.19412
+97,Phenomenon (1996),Phenomenon,0.06538
+98,Supercop (1992),Supercop,0.38472
+99,Bound (1996),Bound,-0.16452
+100,Kansas City (1996),KansasCity,-0.09456
+101,Breakfast at Tiffany's (1961),BreakfastatTiffany's,-0.2202
+102,Gone with the Wind (1939),GonewiththeWind,0.08808
+103,Citizen Kane (1941),CitizenKane,0.11038
+104,2001: A Space Odyssey (1968),2001:ASpaceOdyssey,0.0
+105,Mr. Smith Goes to Washington (1939),Mr.SmithGoestoWashington,0.0
+106,Big Night (1996),BigNight,0.21324
+107,D3: The Mighty Ducks (1996),D3:TheMightyDucks,0.0
+108,Homeward Bound: The Incredible Journey (1993),HomewardBound:TheIncredibleJourney,0.0
+109,"20,000 Leagues Under the Sea (1954)",20000LeaguesUndertheSea,0.0
+110,Bedknobs and Broomsticks (1971),BedknobsandBroomsticks,0.26516
+111,Die Hard (1988),DieHard,0.25284
+112,Unhook the Stars (1996),UnhooktheStars,0.0
+113,Jude (1996),Jude,0.17028
+114,Swingers (1996),Swingers,0.19598
+115,Willy Wonka and the Chocolate Factory (1971),WillyWonkaandtheChocolateFactory,0.27784
+116,Sleeper (1973),Sleeper,0.33788
+117,Monty Python's Life of Brian (1979),MontyPython'sLifeofBrian,0.0
+118,Dirty Dancing (1987),DirtyDancing,0.31702
+119,Reservoir Dogs (1992),ReservoirDogs,0.27314
+120,Platoon (1986),Platoon,0.51322
+121,Weekend at Bernie's (1989),WeekendatBernie's,0.5719
+122,Basic Instinct (1992),BasicInstinct,0.31564
+123,Glengarry Glen Ross (1992),GlengarryGlenRoss,0.18508
+124,Top Gun (1986),TopGun,-0.22474
+125,On Golden Pond (1981),OnGoldenPond,0.2672
+126,Jean de Florette (1986),JeandeFlorette,0.0
+127,Manon of the Spring (Manon des sources) (1986),ManonoftheSpring,0.0
+128,Private Benjamin (1980),PrivateBenjamin,0.0
+129,Monty Python and the Holy Grail (1974),MontyPythonandtheHolyGrail,-0.13725
+130,Cinema Paradiso (1988),CinemaParadiso,0.41234
+131,Delicatessen (1991),Delicatessen,0.4453
+132,Raiders of the Lost Ark (1981),RaidersoftheLostArk,0.13948
+133,Brazil (1985),Brazil,0.25394
+134,Aliens (1986),Aliens,0.57062
+135,12 Angry Men (1957),12AngryMen,0.0784
+136,Apocalypse Now (1979),ApocalypseNow,0.17242
+137,Return of the Jedi (1983),ReturnoftheJedi,-0.57268
+138,GoodFellas (1990),GoodFellas,0.38268
+139,Alien (1979),Alien,0.1009
+140,Army of Darkness (1993),ArmyofDarkness,0.61302
+141,Psycho (1960),Psycho,0.02222
+142,Full Metal Jacket (1987),FullMetalJacket,0.13918
+143,Henry V (1989),HenryV,0.3849
+144,Amadeus (1984),Amadeus,0.085
+145,Raging Bull (1980),RagingBull,0.21466
+146,Dead Poets Society (1989),DeadPoetsSociety,0.68094
+147,Nikita (La Femme Nikita) (1990),Nikita,0.28528
+148,Evil Dead II (1987),EvilDeadII,0.17255
+149,Groundhog Day (1993),GroundhogDay,0.04982
+150,Unforgiven (1992),Unforgiven,0.17488
+151,Back to the Future (1985),BacktotheFuture,0.27796
+152,Patton (1970),Patton,0.2261
+153,Akira (1988),Akira,0.17468
+154,Cyrano de Bergerac (1990),CyranodeBergerac,0.626375
+155,Young Frankenstein (1974),YoungFrankenstein,-0.08038
+156,This Is Spinal Tap (1984),ThisIsSpinalTap,0.28262
+157,Indiana Jones and the Last Crusade (1989),IndianaJonesandtheLastCrusade,0.652625
+158,M*A*S*H (1970),M*A*S*H,0.45108
+159,Pink Floyd - The Wall (1982),PinkFloyd-TheWall,0.24564
+160,Field of Dreams (1989),FieldofDreams,0.1041
+161,When Harry Met Sally... (1989),WhenHarryMetSally...,0.5273
+162,Bram Stoker's Dracula (1992),BramStoker'sDracula,0.0
+163,Cape Fear (1991),CapeFear,-0.53802
+164,Breaking the Waves (1996),BreakingtheWaves,0.0
+165,Star Trek: First Contact (1996),StarTrek:FirstContact,0.0
+166,Sling Blade (1996),SlingBlade,0.54744
+167,Ridicule (1996),Ridicule,0.22362
+168,101 Dalmatians (1996),101Dalmatians,0.33762
+169,Die Hard 2 (1990),DieHard2,0.15942
+170,Star Trek VI: The Undiscovered Country (1991),StarTrekVI:TheUndiscoveredCountry,0.0
+171,Star Trek: The Wrath of Khan (1982),StarTrek:TheWrathofKhan,0.0
+172,Star Trek III: The Search for Spock (1984),StarTrekIII:TheSearchforSpock,0.0
+173,Star Trek IV: The Voyage Home (1986),StarTrekIV:TheVoyageHome,0.0
+174,Batman Returns (1992),BatmanReturns,0.19068
+175,Young Guns (1988),YoungGuns,0.40594
+176,Under Siege (1992),UnderSiege,0.56638
+177,Jaws (1975),Jaws,0.467
+178,Mars Attacks! (1996),MarsAttacks!,0.48178
+179,Citizen Ruth (1996),CitizenRuth,0.0
+180,Jerry Maguire (1996),JerryMaguire,0.4178
+181,Raising Arizona (1987),RaisingArizona,-0.11056
+182,Sneakers (1992),Sneakers,-0.18194
+183,Beavis and Butt-head Do America (1996),BeavisandButt-headDoAmerica,0.0
+184,Kolya (1996),Kolya,0.11844
+185,Jungle2Jungle (1997),Jungle2Jungle,0.0
+186,Smilla's Sense of Snow (1997),Smilla'sSenseofSnow,0.0
+187,Chasing Amy (1997),ChasingAmy,0.04805
+188,Turbo: A Power Rangers Movie (1997),Turbo:APowerRangersMovie,0.0
+189,Grosse Pointe Blank (1997),GrossePointeBlank,0.9118
+190,Austin Powers: International Man of Mystery (1997),AustinPowers:InternationalManofMystery,0.0
+191,Shall We Dance? (1996),ShallWeDance?,0.407266667
+192,Batman & Robin (1997),Batman&Robin,0.20504
+193,My Best Friend's Wedding (1997),MyBestFriend'sWedding,0.0
+194,When the Cats Away (Chacun cherche son chat) (1996),WhentheCatsAway,0.0
+195,Men in Black (1997),MeninBlack,0.5024
+196,Contact (1997),Contact,0.27276
+197,George of the Jungle (1997),GeorgeoftheJungle,0.325325
+198,Event Horizon (1997),EventHorizon,0.13502
+199,Air Bud (1997),AirBud,0.45
+200,In the Company of Men (1997),IntheCompanyofMen,-0.5267
+201,Steel (1997),Steel,0.163175
+202,Mimic (1997),Mimic,0.25688
+203,Kull the Conqueror (1997),KulltheConqueror,0.08895
+204,unknown,unknown,0.29776
+205,Chasing Amy (1997),ChasingAmy,0.04805
+206,Gattaca (1997),Gattaca,0.393
+207,Starship Troopers (1997),StarshipTroopers,0.26716
+208,Good Will Hunting (1997),GoodWillHunting,0.42398
+209,Heat (1995),Heat,0.14356
+210,Sabrina (1995),Sabrina,0.17812
+211,Sense and Sensibility (1995),SenseandSensibility,0.0292
+212,Leaving Las Vegas (1995),LeavingLasVegas,0.25804
+213,Restoration (1995),Restoration,0.06462
+214,Bed of Roses (1996),BedofRoses,0.216433333
+215,Once Upon a Time... When We Were Colored (1995),OnceUponaTime...WhenWeWereColored,0.0
+216,Up Close and Personal (1996),UpCloseandPersonal,0.46922
+217,Emma (1996),Emma,-0.31758
+218,Tin Cup (1996),TinCup,0.46806
+219,Secrets & Lies (1996),Secrets&Lies,-0.0891
+220,Marvin's Room (1996),Marvin'sRoom,0.0
+221,Scream (1996),Scream,-0.3129
+222,Evita (1996),Evita,0.00384
+223,Fierce Creatures (1997),FierceCreatures,0.0
+224,Absolute Power (1997),AbsolutePower,-0.00754
+225,Rosewood (1997),Rosewood,0.18332
+226,Donnie Brasco (1997),DonnieBrasco,-0.10846
+227,Liar Liar (1997),LiarLiar,0.07224
+228,Breakdown (1997),Breakdown,0.42422
+229,"Promesse, La (1996)",PromesseLa,0.0
+230,Ulee's Gold (1997),Ulee'sGold,0.0
+231,Face/Off (1997),Face/Off,0.28582
+232,Hoodlum (1997),Hoodlum,0.3369
+233,Air Force One (1997),AirForceOne,0.03558
+234,In & Out (1997),In&Out,0.2326
+235,L.A. Confidential (1997),L.A.Confidential,0.64048
+236,Ulee's Gold (1997),Ulee'sGold,0.0
+237,Fly Away Home (1996),FlyAwayHome,0.5267
+238,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",Mrs.Brown,0.30444
+239,FairyTale: A True Story (1997),FairyTale:ATrueStory,0.0
+240,Deceiver (1997),Deceiver,-0.0013
+241,Midnight in the Garden of Good and Evil (1997),MidnightintheGardenofGoodandEvil,0.248775
+242,Titanic (1997),Titanic,0.0
+243,3 Ninjas: High Noon At Mega Mountain (1998),3Ninjas:HighNoonAtMegaMountain,0.0
+244,Apt Pupil (1998),AptPupil,-0.3612
+245,As Good As It Gets (1997),AsGoodAsItGets,0.388025
+246,In the Name of the Father (1993),IntheNameoftheFather,0.225533333
+247,Schindler's List (1993),Schindler'sList,0.2202
+248,Everyone Says I Love You (1996),EveryoneSaysILoveYou,0.0
+249,Paradise Lost: The Child Murders at Robin Hood Hills (1996),ParadiseLost:TheChildMurdersatRobinHoodHills,0.0
+250,Mother (1996),Mother,0.00898
+251,Murder at 1600 (1997),Murderat1600,-0.6124
+252,Dante's Peak (1997),Dante'sPeak,0.03544
+253,Lost Highway (1997),LostHighway,0.23506
+254,Crash (1996),Crash,0.02262
+255,G.I. Jane (1997),G.I.Jane,0.54062
+256,Cop Land (1997),CopLand,0.21546
+257,Conspiracy Theory (1997),ConspiracyTheory,-0.1555
+258,Desperate Measures (1998),DesperateMeasures,0.0664
+259,187 (1997),187,0.0683
+260,Kiss the Girls (1997),KisstheGirls,-0.186025
+261,U Turn (1997),UTurn,-0.0282
+262,How to Be a Player (1997),HowtoBeaPlayer,0.1366
+263,Playing God (1997),PlayingGod,0.318163636
+264,Bean (1997),Bean,0.08794
+265,Mad City (1997),MadCity,0.4564
+266,Boogie Nights (1997),BoogieNights,0.3811
+267,Critical Care (1997),CriticalCare,0.36658
+268,Alien: Resurrection (1997),Alien:Resurrection,0.41718
+269,Deconstructing Harry (1997),DeconstructingHarry,0.0
+270,Jackie Brown (1997),JackieBrown,0.18548
+271,Wag the Dog (1997),WagtheDog,0.1516
+272,Desperate Measures (1998),DesperateMeasures,0.0664
+273,Hard Rain (1998),HardRain,0.0688
+274,Fallen (1998),Fallen,-0.1818
+275,Spice World (1997),SpiceWorld,0.17908
+276,Deep Rising (1998),DeepRising,0.091066667
+277,Sphere (1998),Sphere,0.0515
+278,One Flew Over the Cuckoo's Nest (1975),OneFlewOvertheCuckoo'sNest,0.0
+279,Spawn (1997),Spawn,0.0737
+280,Wonderland (1997),Wonderland,0.34586
+281,Incognito (1997),Incognito,0.24666
+282,Blues Brothers 2000 (1998),BluesBrothers2000,0.25806
+283,Sudden Death (1995),SuddenDeath,0.19934
+284,Ace Ventura: When Nature Calls (1995),AceVentura:WhenNatureCalls,0.0
+285,Powder (1995),Powder,0.0332
+286,Dangerous Minds (1995),DangerousMinds,-0.20446
+287,Clueless (1995),Clueless,0.03594
+288,Bio-Dome (1996),Bio-Dome,0.4561
+289,Black Sheep (1996),BlackSheep,0.45522
+290,Mary Reilly (1996),MaryReilly,0.509
+291,Jeffrey (1995),Jeffrey,0.27276
+292,Judge Dredd (1995),JudgeDredd,0.38702
+293,Mighty Morphin Power Rangers: The Movie (1995),MightyMorphinPowerRangers:TheMovie,-0.1027
+294,Showgirls (1995),Showgirls,0.1259
+295,Houseguest (1994),Houseguest,0.29442
+296,Heavyweights (1994),Heavyweights,0.12132
+297,Miracle on 34th Street (1994),Miracleon34thStreet,0.6282
+298,Tales From the Crypt Presents: Demon Knight (1995),TalesFromtheCryptPresents:DemonKnight,0.0
+299,Star Trek: Generations (1994),StarTrek:Generations,0.26064
+300,Muriel's Wedding (1994),Muriel'sWedding,0.0
+301,Naked Gun 33 1/3: The Final Insult (1994),NakedGun331/3:TheFinalInsult,0.0
+302,True Lies (1994),TrueLies,0.218725
+303,Addams Family Values (1993),AddamsFamilyValues,0.5719
+304,Beverly Hills Cop III (1994),BeverlyHillsCopIII,0.0
+305,Black Beauty (1994),BlackBeauty,-0.13816
+306,Fear of a Black Hat (1993),FearofaBlackHat,0.0
+307,Last Action Hero (1993),LastActionHero,0.36654
+308,Mrs. Doubtfire (1993),Mrs.Doubtfire,0.01654
+309,Radioland Murders (1994),RadiolandMurders,0.0
+310,Robin Hood: Men in Tights (1993),RobinHood:MeninTights,0.0
+311,Serial Mom (1994),SerialMom,-0.06506
+312,Striking Distance (1993),StrikingDistance,0.6697
+313,Super Mario Bros. (1993),SuperMarioBros.,0.50074
+314,Ghost (1990),Ghost,-0.36756
+315,Batman (1989),Batman,0.41396
+316,Pinocchio (1940),Pinocchio,-0.02862
+317,Mission: Impossible (1996),Mission:Impossible,0.41556
+318,Thinner (1996),Thinner,0.3869
+319,Spy Hard (1996),SpyHard,-0.2595
+320,Jack (1996),Jack,0.73838
+321,Kingpin (1996),Kingpin,0.07778
+322,Tales from the Crypt Presents: Bordello of Blood (1996),TalesfromtheCryptPresents:BordelloofBlood,0.0
+323,My Favorite Year (1982),MyFavoriteYear,0.4404
+324,Old Yeller (1957),OldYeller,-0.25
+325,Cinderella (1950),Cinderella,-0.1176
+326,Mary Poppins (1964),MaryPoppins,-0.00218
+327,Alice in Wonderland (1951),AliceinWonderland,0.19752
+328,William Shakespeare's Romeo and Juliet (1996),WilliamShakespeare'sRomeoandJuliet,0.0
+329,Aladdin and the King of Thieves (1996),AladdinandtheKingofThieves,0.0
+330,E.T. the Extra-Terrestrial (1982),E.T.theExtra-Terrestrial,0.0
+331,Children of the Corn: The Gathering (1996),ChildrenoftheCorn:TheGathering,0.0
+332,Bob Roberts (1992),BobRoberts,0.0
+333,To Kill a Mockingbird (1962),ToKillaMockingbird,0.17506
+334,Harold and Maude (1971),HaroldandMaude,0.4536
+335,Duck Soup (1933),DuckSoup,0.27904
+336,Highlander (1986),Highlander,0.2517
+337,Fantasia (1940),Fantasia,0.19832
+338,Heathers (1989),Heathers,0.22268
+339,Forbidden Planet (1956),ForbiddenPlanet,0.3628
+340,Butch Cassidy and the Sundance Kid (1969),ButchCassidyandtheSundanceKid,0.6274
+341,Amityville 1992: It's About Time (1992),Amityville1992:It'sAboutTime,0.0
+342,Amityville 3-D (1983),Amityville3-D,0.0
+343,Amityville: A New Generation (1993),Amityville:ANewGeneration,0.0
+344,Amityville II: The Possession (1982),AmityvilleII:ThePossession,0.0
+345,Burnt Offerings (1976),BurntOfferings,0.2385
+346,Carrie (1976),Carrie,0.3277
+347,Star Trek: The Motion Picture (1979),StarTrek:TheMotionPicture,0.4939
+348,Star Trek V: The Final Frontier (1989),StarTrekV:TheFinalFrontier,0.0
+349,Grease (1978),Grease,0.23302
+350,Jaws 2 (1978),Jaws2,-0.04652
+351,Jaws 3-D (1983),Jaws3-D,0.0
+352,Bastard Out of Carolina (1996),BastardOutofCarolina,0.0
+353,Jackie Chan's First Strike (1996),JackieChan'sFirstStrike,0.0
+354,Beverly Hills Ninja (1997),BeverlyHillsNinja,0.0
+355,Free Willy 3: The Rescue (1997),FreeWilly3:TheRescue,0.0
+356,Nixon (1995),Nixon,0.0846
+357,"Cry, the Beloved Country (1995)",CrytheBelovedCountry,-0.36044
+358,Smoke (1995),Smoke,-0.19614
+359,Like Water For Chocolate (Como agua para chocolate) (1992),LikeWaterForChocolate,0.169633333
+360,Vanya on 42nd Street (1994),Vanyaon42ndStreet,0.0
+361,Red Rock West (1992),RedRockWest,0.51968
+362,Rudy (1993),Rudy,0.14024
+363,Short Cuts (1993),ShortCuts,0.39546
+364,Tombstone (1993),Tombstone,0.31894
+365,Courage Under Fire (1996),CourageUnderFire,0.975
+366,Dragonheart (1996),Dragonheart,0.53886
+367,James and the Giant Peach (1996),JamesandtheGiantPeach,0.350875
+368,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Dr.Strangeloveor:HowILearnedtoStopWorryingandLovetheBomb,0.0
+369,Trainspotting (1996),Trainspotting,0.07546
+370,Matilda (1996),Matilda,0.21972
+371,Vertigo (1958),Vertigo,-0.43702
+372,North by Northwest (1959),NorthbyNorthwest,0.408
+373,Some Like It Hot (1959),SomeLikeItHot,0.39916
+374,Casablanca (1942),Casablanca,0.06928
+375,My Fair Lady (1964),MyFairLady,0.11718
+376,Sabrina (1954),Sabrina,0.17812
+377,Roman Holiday (1953),RomanHoliday,0.27422
+378,Sunset Blvd. (1950),SunsetBlvd.,0.25324
+379,Notorious (1946),Notorious,-0.10344
+380,To Catch a Thief (1955),ToCatchaThief,0.36008
+381,East of Eden (1955),EastofEden,-0.09416
+382,His Girl Friday (1940),HisGirlFriday,0.8834
+383,Around the World in 80 Days (1956),AroundtheWorldin80Days,0.3217
+384,It's a Wonderful Life (1946),It'saWonderfulLife,0.0
+385,Bringing Up Baby (1938),BringingUpBaby,0.32745
+386,Cat on a Hot Tin Roof (1958),CatonaHotTinRoof,0.3035
+387,Fly Away Home (1996),FlyAwayHome,0.5267
+388,Dumbo (1941),Dumbo,0.42116
+389,Bananas (1971),Bananas,0.34682
+390,Bonnie and Clyde (1967),BonnieandClyde,0.15592
+391,Dial M for Murder (1954),DialMforMurder,0.162766667
+392,Rebel Without a Cause (1955),RebelWithoutaCause,0.10514
+393,My Left Foot (1989),MyLeftFoot,0.2628
+394,Lawrence of Arabia (1962),LawrenceofArabia,0.11438
+395,Wings of Desire (1987),WingsofDesire,0.49288
+396,Annie Hall (1977),AnnieHall,0.28442
+397,"Boot, Das (1981)",BootDas,0.0
+398,Local Hero (1983),LocalHero,0.40486
+399,Manhattan (1979),Manhattan,0.0001
+400,Miller's Crossing (1990),Miller'sCrossing,0.0
+401,Down by Law (1986),DownbyLaw,-0.18838
+402,Cool Hand Luke (1967),CoolHandLuke,0.18456
+403,Ben-Hur (1959),Ben-Hur,0.17916
+404,Gandhi (1982),Gandhi,-0.02116
+405,My Life as a Dog (Mitt liv som hund) (1985),MyLifeasaDog,0.0
+406,Shine (1996),Shine,0.42744
+407,Kama Sutra: A Tale of Love (1996),KamaSutra:ATaleofLove,0.0
+408,Traveller (1997),Traveller,0.1766
+409,Addicted to Love (1997),AddictedtoLove,0.33156
+410,Ponette (1996),Ponette,-0.10816
+411,My Own Private Idaho (1991),MyOwnPrivateIdaho,0.11882
+412,Anastasia (1997),Anastasia,0.14436
+413,Mouse Hunt (1997),MouseHunt,0.23076
+414,Money Train (1995),MoneyTrain,0.29856
+415,Mortal Kombat (1995),MortalKombat,0.4375
+416,Pocahontas (1995),Pocahontas,-0.09132
+417,"Mis�rables, Les (1995)",Mis�rablesLes,0.0
+418,Things to Do in Denver when You're Dead (1995),ThingstoDoinDenverwhenYou'reDead,0.0
+419,Vampire in Brooklyn (1995),VampireinBrooklyn,-0.089
+420,Broken Arrow (1996),BrokenArrow,-0.04184
+421,Rob Roy (1995),RobRoy,0.50536
+422,Die Hard: With a Vengeance (1995),DieHard:WithaVengeance,0.0
+423,Lord of Illusions (1995),LordofIllusions,0.0
+424,Species (1995),Species,-0.0121
+425,Waterworld (1995),Waterworld,0.22768
+426,White Man's Burden (1995),WhiteMan'sBurden,0.0
+427,Wild Bill (1995),WildBill,0.4688
+428,Farinelli: il castrato (1994),Farinelli:ilcastrato,0.0
+429,Heavenly Creatures (1994),HeavenlyCreatures,0.0
+430,Interview with the Vampire (1994),InterviewwiththeVampire,-0.249
+431,Mary Shelley's Frankenstein (1994),MaryShelley'sFrankenstein,0.0
+432,Stephen King's The Langoliers (1995),StephenKing'sTheLangoliers,0.0
+433,Tales from the Hood (1995),TalesfromtheHood,-0.11155
+434,Village of the Damned (1995),VillageoftheDamned,-0.1909
+435,Clear and Present Danger (1994),ClearandPresentDanger,-0.1611
+436,Wes Craven's New Nightmare (1994),WesCraven'sNewNightmare,0.0
+437,Speed (1994),Speed,0.07224
+438,Wolf (1994),Wolf,-0.16568
+439,Wyatt Earp (1994),WyattEarp,-0.09478
+440,Another Stakeout (1993),AnotherStakeout,0.0
+441,Blown Away (1994),BlownAway,0.18956
+442,Body Snatchers (1993),BodySnatchers,-0.49866
+443,Boxing Helena (1993),BoxingHelena,0.0
+444,City Slickers II: The Legend of Curly's Gold (1994),CitySlickersII:TheLegendofCurly'sGold,0.0
+445,Cliffhanger (1993),Cliffhanger,0.31416
+446,Coneheads (1993),Coneheads,0.40464
+447,Demolition Man (1993),DemolitionMan,0.01254
+448,Fatal Instinct (1993),FatalInstinct,0.0
+449,Kalifornia (1993),Kalifornia,0.16114
+450,Romeo Is Bleeding (1993),RomeoIsBleeding,0.0
+451,Son in Law (1993),SoninLaw,0.12764
+452,Terminal Velocity (1994),TerminalVelocity,0.0
+453,Beauty and the Beast (1991),BeautyandtheBeast,0.69235
+454,Hellraiser: Bloodline (1996),Hellraiser:Bloodline,0.0793
+455,Primal Fear (1996),PrimalFear,-0.03282
+456,True Crime (1995),TrueCrime,-0.12372
+457,Stalingrad (1993),Stalingrad,-0.40136
+458,Heavy (1995),Heavy,-0.029
+459,Eraser (1996),Eraser,0.2065
+460,Police Story 4: Project S (Chao ji ji hua) (1993),PoliceStory4:ProjectS,0.0
+461,Daniel Defoe's Robinson Crusoe (1996),DanielDefoe'sRobinsonCrusoe,0.0
+462,For Whom the Bell Tolls (1943),ForWhomtheBellTolls,0.07632
+463,Rear Window (1954),RearWindow,0.41214
+464,It Happened One Night (1934),ItHappenedOneNight,0.4588
+465,Meet Me in St. Louis (1944),MeetMeinSt.Louis,0.0
+466,All About Eve (1950),AllAboutEve,0.48944
+467,Rebecca (1940),Rebecca,0.43216
+468,Spellbound (1945),Spellbound,-0.16252
+469,Father of the Bride (1950),FatheroftheBride,0.2563
+470,Gigi (1958),Gigi,-0.03622
+471,Laura (1944),Laura,0.33662
+472,Lost Horizon (1937),LostHorizon,0.5307
+473,My Man Godfrey (1936),MyManGodfrey,-0.02414
+474,Giant (1956),Giant,-0.12266
+475,Night of the Living Dead (1968),NightoftheLivingDead,-0.29874
+476,Picnic (1955),Picnic,0.12784
+477,Extreme Measures (1996),ExtremeMeasures,0.0
+478,"Davy Crockett, King of the Wild Frontier (1955)",DavyCrockettKingoftheWildFrontier,0.0
+479,Swiss Family Robinson (1960),SwissFamilyRobinson,0.23225
+480,Angels in the Outfield (1994),AngelsintheOutfield,0.266266667
+481,So Dear to My Heart (1949),SoDeartoMyHeart,0.0
+482,Robin Hood: Prince of Thieves (1991),RobinHood:PrinceofThieves,-0.7269
+483,Sleepers (1996),Sleepers,-0.13614
+484,Victor/Victoria (1982),Victor/Victoria,0.24376
+485,Sophie's Choice (1982),Sophie'sChoice,0.0
+486,Microcosmos: Le peuple de l'herbe (1996),Microcosmos:Lepeupledel'herbe,0.0
+487,Escape from New York (1981),EscapefromNewYork,0.10498
+488,Paths of Glory (1957),PathsofGlory,-0.161366667
+489,The Innocent (1994),TheInnocent,-0.0659
+490,Paris Is Burning (1990),ParisIsBurning,-0.0887
+491,Once Upon a Time in the West (1969),OnceUponaTimeintheWest,0.462066667
+492,Ran (1985),Ran,0.00456
+493,Once Upon a Time in America (1984),OnceUponaTimeinAmerica,0.051866667
+494,Glory (1989),Glory,0.56272
+495,Rosencrantz and Guildenstern Are Dead (1990),RosencrantzandGuildensternAreDead,0.0
+496,Touch of Evil (1958),TouchofEvil,0.0
+497,Chinatown (1974),Chinatown,0.3381
+498,Stand by Me (1986),StandbyMe,0.54872
+499,M (1931),M,-2e-05
+500,Pump Up the Volume (1990),PumpUptheVolume,0.132418182
+501,Arsenic and Old Lace (1944),ArsenicandOldLace,0.7373
+502,Fried Green Tomatoes (1991),FriedGreenTomatoes,0.28536
+503,High Noon (1952),HighNoon,0.05974
+504,Somewhere in Time (1980),SomewhereinTime,0.279775
+505,Being There (1979),BeingThere,0.5813
+506,"Paris, Texas (1984)",ParisTexas,-0.104625
+507,Alien 3 (1992),Alien3,-0.14932
+508,Blood For Dracula (Andy Warhol's Dracula) (1974),BloodForDracula,0.0
+509,Audrey Rose (1977),AudreyRose,0.09428
+510,Blood Beach (1981),BloodBeach,-0.0129
+511,Body Parts (1991),BodyParts,-0.061175
+512,Body Snatchers (1993),BodySnatchers,-0.49866
+513,Bride of Frankenstein (1935),BrideofFrankenstein,-0.30594
+514,Candyman (1992),Candyman,-0.01182
+515,Cape Fear (1962),CapeFear,-0.53802
+516,Cat People (1982),CatPeople,0.22834
+517,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Nosferatu,0.41612
+518,Fire on the Mountain (1996),FireontheMountain,0.1391
+519,Volcano (1997),Volcano,0.11902
+520,Conan the Barbarian (1981),ConantheBarbarian,-0.0587
+521,Kull the Conqueror (1997),KulltheConqueror,0.08895
+522,Wishmaster (1997),Wishmaster,0.19764
+523,I Know What You Did Last Summer (1997),IKnowWhatYouDidLastSummer,0.19614
+524,Rocket Man (1997),RocketMan,0.34578
+525,In the Line of Fire (1993),IntheLineofFire,0.26032
+526,Executive Decision (1996),ExecutiveDecision,-0.4818
+527,McHale's Navy (1997),McHale'sNavy,0.0
+528,Leave It to Beaver (1997),LeaveIttoBeaver,0.3559
+529,Seven Years in Tibet (1997),SevenYearsinTibet,0.6369
+530,Dark City (1998),DarkCity,0.61804
+531,Casino (1995),Casino,0.58228
+532,Persuasion (1995),Persuasion,-0.1381
+533,Kicking and Screaming (1995),KickingandScreaming,0.163575
+534,City Hall (1996),CityHall,0.1113
+535,Little Women (1994),LittleWomen,0.24176
+536,Miami Rhapsody (1995),MiamiRhapsody,0.0
+537,Barcelona (1994),Barcelona,0.14728
+538,Widows' Peak (1994),Widows'Peak,0.31898
+539,Singin' in the Rain (1952),Singin'intheRain,0.0
+540,Bad Moon (1996),BadMoon,0.44912
+541,Enchanted April (1991),EnchantedApril,-0.15375
+542,"Sex, Lies, and Videotape (1989)",SexLiesandVideotape,0.0
+543,Strictly Ballroom (1992),StrictlyBallroom,0.4215
+544,Better Off Dead... (1985),BetterOffDead...,-0.0504
+545,Tin Men (1987),TinMen,0.06364
+546,Othello (1995),Othello,0.00332
+547,Carrington (1995),Carrington,0.05726
+548,To Die For (1995),ToDieFor,0.42616
+549,Home for the Holidays (1995),HomefortheHolidays,0.29005
+550,In the Bleak Midwinter (1995),IntheBleakMidwinter,0.0
+551,Canadian Bacon (1994),CanadianBacon,0.37736
+552,First Knight (1995),FirstKnight,-0.11315
+553,Mallrats (1995),Mallrats,0.1141
+554,Nine Months (1995),NineMonths,0.0
+555,Boys on the Side (1995),BoysontheSide,0.0
+556,Circle of Friends (1995),CircleofFriends,0.8488
+557,Exit to Eden (1994),ExittoEden,0.0
+558,Fluke (1995),Fluke,0.36398
+559,Immortal Beloved (1994),ImmortalBeloved,0.0
+560,Junior (1994),Junior,0.12652
+561,Nell (1994),Nell,0.04212
+562,"Queen Margot (Reine Margot, La) (1994)",QueenMargot,0.0
+563,"Corrina, Corrina (1994)",CorrinaCorrina,0.19626
+564,Dave (1993),Dave,0.26738
+565,Go Fish (1994),GoFish,0.24468
+566,Made in America (1993),MadeinAmerica,0.75124
+567,Philadelphia (1993),Philadelphia,0.125675
+568,Shadowlands (1993),Shadowlands,0.20686
+569,Sirens (1994),Sirens,-0.25538
+570,Threesome (1994),Threesome,0.41498
+571,Pretty Woman (1990),PrettyWoman,0.58374
+572,Jane Eyre (1996),JaneEyre,-0.35614
+573,Ransom (1996),Ransom,-0.23962
+574,Michael Collins (1996),MichaelCollins,-0.43474
+575,Real Genius (1985),RealGenius,0.0741
+576,Benny & Joon (1993),Benny&Joon,0.01836
+577,Amistad (1997),Amistad,0.28778
+578,Tomorrow Never Dies (1997),TomorrowNeverDies,0.26384
+579,Burnt By the Sun (1994),BurntBytheSun,-0.5267
+580,Red Corner (1997),RedCorner,0.1779
+581,Jumanji (1995),Jumanji,0.27226
+582,Father of the Bride Part II (1995),FatheroftheBridePartII,0.0
+583,Across the Sea of Time (1995),AcrosstheSeaofTime,0.0
+584,Lawnmower Man 2: Beyond Cyberspace (1996),LawnmowerMan2:BeyondCyberspace,0.0
+585,Fair Game (1995),FairGame,-0.14328
+586,Screamers (1995),Screamers,0.3369
+587,Nick of Time (1995),NickofTime,0.13568
+588,Beautiful Girls (1996),BeautifulGirls,0.4793
+589,Happy Gilmore (1996),HappyGilmore,0.339425
+590,If Lucy Fell (1996),IfLucyFell,0.0
+591,Boomerang (1992),Boomerang,0.24382
+592,Man of the Year (1995),ManoftheYear,0.09738
+593,Casper (1995),Casper,0.04706
+594,Congo (1995),Congo,0.0361
+595,Devil in a Blue Dress (1995),DevilinaBlueDress,-0.2199
+596,Johnny Mnemonic (1995),JohnnyMnemonic,0.45366
+597,Kids (1995),Kids,-0.23794
+598,Mute Witness (1994),MuteWitness,0.0
+599,Something to Talk About (1995),SomethingtoTalkAbout,0.47785
+600,Three Wishes (1995),ThreeWishes,0.10052
+601,Castle Freak (1995),CastleFreak,-0.3871
+602,Don Juan DeMarco (1995),DonJuanDeMarco,0.0
+603,Drop Zone (1994),DropZone,0.32278
+604,Dumb & Dumber (1994),Dumb&Dumber,-0.53754
+605,French Kiss (1995),FrenchKiss,-0.20616
+606,Little Odessa (1994),LittleOdessa,0.0
+607,Milk Money (1994),MilkMoney,-0.20516
+608,Beyond Bedlam (1993),BeyondBedlam,0.4036
+609,Only You (1994),OnlyYou,0.15284
+610,Roommates (1995),Roommates,-0.141
+611,Relative Fear (1994),RelativeFear,0.0
+612,Swimming with Sharks (1995),SwimmingwithSharks,0.387175
+613,Tommy Boy (1995),TommyBoy,0.2226
+614,Bullets Over Broadway (1994),BulletsOverBroadway,0.0
+615,Crooklyn (1994),Crooklyn,-0.10588
+616,It Could Happen to You (1994),ItCouldHappentoYou,0.3182
+617,Richie Rich (1994),RichieRich,0.32992
+618,Speechless (1994),Speechless,0.08084
+619,Timecop (1994),Timecop,0.29622
+620,Bad Company (1995),BadCompany,-0.23864
+621,Boys Life (1995),BoysLife,0.0903
+622,In the Mouth of Madness (1995),IntheMouthofMadness,-0.232966667
+623,Hard Target (1993),HardTarget,-0.03998
+624,Heaven & Earth (1993),Heaven&Earth,0.51444
+625,Jimmy Hollywood (1994),JimmyHollywood,0.34
+626,Manhattan Murder Mystery (1993),ManhattanMurderMystery,0.0
+627,Menace II Society (1993),MenaceIISociety,-0.47234
+628,Poetic Justice (1993),PoeticJustice,0.04694
+629,Rising Sun (1993),RisingSun,0.32328
+630,Thirty-Two Short Films About Glenn Gould (1993),Thirty-TwoShortFilmsAboutGlennGould,0.0
+631,Andre (1994),Andre,0.5786
+632,One Fine Day (1996),OneFineDay,0.3935
+633,Candyman: Farewell to the Flesh (1995),Candyman:FarewelltotheFlesh,0.4939
+634,Frisk (1995),Frisk,0.32912
+635,Girl 6 (1996),Girl6,0.31182
+636,Eddie (1996),Eddie,0.40234
+637,Space Jam (1996),SpaceJam,-0.0201
+638,Mrs. Winterbourne (1996),Mrs.Winterbourne,0.41882
+639,Faces (1968),Faces,0.15276
+640,Mulholland Falls (1996),MulhollandFalls,0.0
+641,Daylight (1996),Daylight,0.26832
+642,Alaska (1996),Alaska,0.09176
+643,Fled (1996),Fled,-0.21208
+644,Power 98 (1995),Power98,-0.119766667
+645,Escape from L.A. (1996),EscapefromL.A.,0.0
+646,Bogus (1996),Bogus,-0.00608
+647,Bulletproof (1996),Bulletproof,0.16156
+648,Halloween: The Curse of Michael Myers (1995),Halloween:TheCurseofMichaelMyers,-0.28595
+649,Ninotchka (1939),Ninotchka,0.08482
+650,Meet John Doe (1941),MeetJohnDoe,0.0
+651,In the Line of Duty 2 (1987),IntheLineofDuty2,0.0
+652,Loch Ness (1995),LochNess,0.09768
+653,Last Man Standing (1996),LastManStanding,0.69618
+654,Pollyanna (1960),Pollyanna,0.13986
+655,Freeway (1996),Freeway,-0.09772
+656,That Thing You Do! (1996),ThatThingYouDo!,0.44608
+657,To Gillian on Her 37th Birthday (1996),ToGillianonHer37thBirthday,0.0
+658,Looking for Richard (1996),LookingforRichard,0.0
+659,"Murder, My Sweet (1944)",MurderMySweet,0.1175
+660,Days of Thunder (1990),DaysofThunder,0.0
+661,Two or Three Things I Know About Her (1966),TwoorThreeThingsIKnowAboutHer,0.0
+662,Braindead (1992),Braindead,0.0966
+663,Bad Taste (1987),BadTaste,-0.18222
+664,Diva (1981),Diva,0.46038
+665,Night on Earth (1991),NightonEarth,0.393066667
+666,Paris Was a Woman (1995),ParisWasaWoman,0.0
+667,Amityville: Dollhouse (1996),Amityville:Dollhouse,0.237633333
+668,April Fool's Day (1986),AprilFool'sDay,0.0
+669,Nosferatu a Venezia (1986),NosferatuaVenezia,0.0
+670,Jingle All the Way (1996),JingleAlltheWay,-0.16148
+671,My Fellow Americans (1996),MyFellowAmericans,-0.180766667
+672,Michael (1996),Michael,0.23924
+673,Hearts and Minds (1996),HeartsandMinds,0.45708
+674,Fools Rush In (1997),FoolsRushIn,0.45342
+675,Touch (1997),Touch,0.15224
+676,Vegas Vacation (1997),VegasVacation,0.34978
+677,Love Jones (1997),LoveJones,-0.068
+678,Picture Perfect (1997),PicturePerfect,0.63722
+679,Career Girls (1997),CareerGirls,0.55088
+680,She's So Lovely (1997),She'sSoLovely,0.5423
+681,Money Talks (1997),MoneyTalks,0.17682
+682,Excess Baggage (1997),ExcessBaggage,0.3689
+683,That Darn Cat! (1997),ThatDarnCat!,0.24334
+684,Soul Food (1997),SoulFood,0.289
+685,Money Talks (1997),MoneyTalks,0.17682
+686,Washington Square (1997),WashingtonSquare,0.1471
+687,Telling Lies in America (1997),TellingLiesinAmerica,0.0
+688,Year of the Horse (1997),YearoftheHorse,0.0
+689,Phantoms (1998),Phantoms,0.42154
+690,Eve's Bayou (1997),Eve'sBayou,0.0
+691,One Night Stand (1997),OneNightStand,0.04362
+692,Mortal Kombat: Annihilation (1997),MortalKombat:Annihilation,0.0
+693,Bent (1997),Bent,-0.17238
+694,Flubber (1997),Flubber,0.01142
+695,For Richer or Poorer (1997),ForRicherorPoorer,0.0
+696,Home Alone 3 (1997),HomeAlone3,-0.3803
+697,Scream 2 (1997),Scream2,-0.34704
+698,Time Tracers (1995),TimeTracers,0.0
+699,Kundun (1997),Kundun,-0.25994
+700,Mr. Magoo (1997),Mr.Magoo,0.2336
+701,Afterglow (1997),Afterglow,0.21624
+702,Ma vie en rose (My Life in Pink) (1997),Mavieenrose,0.0
+703,Great Expectations (1998),GreatExpectations,-0.0365
+704,Oscar & Lucinda (1997),Oscar&Lucinda,0.25196
+705,Vermin (1998),Vermin,-0.14264
+706,Half Baked (1998),HalfBaked,0.52876
+707,Dangerous Beauty (1998),DangerousBeauty,0.0
+708,Nil By Mouth (1997),NilByMouth,-0.04528
+709,Twilight (1998),Twilight,0.322
+710,U.S. Marshalls (1998),U.S.Marshalls,-0.1819
+711,Love and Death on Long Island (1997),LoveandDeathonLongIsland,0.0
+712,Wild Things (1998),WildThings,0.0
+713,Primary Colors (1998),PrimaryColors,0.20868
+714,Lost in Space (1998),LostinSpace,-0.22284
+715,Mercury Rising (1998),MercuryRising,0.836
+716,City of Angels (1998),CityofAngels,0.19962
+717,Two Bits (1995),TwoBits,-0.100475
+718,Farewell My Concubine (1993),FarewellMyConcubine,0.0
+719,Dead Man (1995),DeadMan,0.10838
+720,Raise the Red Lantern (1991),RaisetheRedLantern,0.05135
+721,White Squall (1996),WhiteSquall,0.1025
+722,Unforgettable (1996),Unforgettable,0.42112
+723,Down Periscope (1996),DownPeriscope,0.0
+724,Harriet the Spy (1996),HarriettheSpy,0.0
+725,Chain Reaction (1996),ChainReaction,0.136
+726,First Kid (1996),FirstKid,0.14564
+727,Paradise Road (1997),ParadiseRoad,0.0
+728,Brassed Off (1996),BrassedOff,0.0772
+729,Murder in the First (1995),MurderintheFirst,0.7269
+730,Airheads (1994),Airheads,0.28594
+731,With Honors (1994),WithHonors,0.80764
+732,What's Love Got to Do with It (1993),What'sLoveGottoDowithIt,0.0
+733,Killing Zoe (1994),KillingZoe,0.0
+734,Renaissance Man (1994),RenaissanceMan,0.59666
+735,Charade (1963),Charade,-0.21218
+736,Booty Call (1997),BootyCall,0.37302
+737,How to Make an American Quilt (1995),HowtoMakeanAmericanQuilt,0.8442
+738,Georgia (1995),Georgia,0.14282
+739,Blue in the Face (1995),BlueintheFace,0.0
+740,Unstrung Heroes (1995),UnstrungHeroes,0.0
+741,Unzipped (1995),Unzipped,0.14672
+742,Before Sunrise (1995),BeforeSunrise,0.18714
+743,Nobody's Fool (1994),Nobody'sFool,0.6249
+744,Pushing Hands (1992),PushingHands,0.0
+745,To Live (Huozhe) (1994),ToLive,-0.4588
+746,Dazed and Confused (1993),DazedandConfused,-0.09934
+747,Naked (1993),Naked,0.0
+748,Orlando (1993),Orlando,0.16978
+749,Ruby in Paradise (1993),RubyinParadise,0.05858
+750,Some Folks Call It a Sling Blade (1993),SomeFolksCallItaSlingBlade,0.0
+751,Funny Face (1957),FunnyFace,0.3203
+752,Little Lord Fauntleroy (1936),LittleLordFauntleroy,0.0
+753,Winnie the Pooh and the Blustery Day (1968),WinniethePoohandtheBlusteryDay,0.0
+754,Hear My Song (1991),HearMySong,0.0
+755,Mediterraneo (1991),Mediterraneo,0.11438
+756,Passion Fish (1992),PassionFish,-0.1087
+757,Grateful Dead (1995),GratefulDead,0.2087
+758,Eye for an Eye (1996),EyeforanEye,0.33684
+759,Fear (1996),Fear,-0.1828
+760,Solo (1996),Solo,-0.08105
+761,Heaven's Prisoners (1996),Heaven'sPrisoners,0.0
+762,Mother Night (1996),MotherNight,0.0
+763,Dangerous Ground (1997),DangerousGround,0.0
+764,Maximum Risk (1996),MaximumRisk,-0.2732
+765,Shadow Conspiracy (1997),ShadowConspiracy,0.0
+766,Blood & Wine (1997),Blood&Wine,0.40414
+767,Turbulence (1997),Turbulence,0.2792
+768,Underworld (1997),Underworld,0.274
+769,Cats Don't Dance (1997),CatsDon'tDance,0.0
+770,Anna Karenina (1997),AnnaKarenina,0.62654
+771,Keys to Tulsa (1997),KeystoTulsa,0.0
+772,Head Above Water (1996),HeadAboveWater,0.133966667
+773,Hercules (1997),Hercules,-0.01058
+774,"Kiss Me, Guido (1997)",KissMeGuido,0.0
+775,Stuart Saves His Family (1995),StuartSavesHisFamily,0.0
+776,Cabin Boy (1994),CabinBoy,0.1468
+777,Clean Slate (1994),CleanSlate,0.585
+778,Lightning Jack (1994),LightningJack,0.122675
+779,That Darn Cat! (1997),ThatDarnCat!,0.24334
+780,Geronimo: An American Legend (1993),Geronimo:AnAmericanLegend,0.0
+781,"Double vie de V�ronique, La (Double Life of Veronique, The) (1991)",DoubleviedeV�roniqueLa,0.0
+782,Until the End of the World (Bis ans Ende der Welt) (1991),UntiltheEndoftheWorld,0.4818
+783,Waiting for Guffman (1996),WaitingforGuffman,0.4019
+784,I Shot Andy Warhol (1996),IShotAndyWarhol,0.3182
+785,Stealing Beauty (1996),StealingBeauty,0.3163
+786,Basquiat (1996),Basquiat,0.30354
+787,2 Days in the Valley (1996),2DaysintheValley,0.0
+788,Private Parts (1997),PrivateParts,-0.1947
+789,Anaconda (1997),Anaconda,0.1744
+790,Romy and Michele's High School Reunion (1997),RomyandMichele'sHighSchoolReunion,0.0
+791,Shiloh (1997),Shiloh,-0.02054
+792,Con Air (1997),ConAir,0.15418
+793,Trees Lounge (1996),TreesLounge,0.0
+794,Tie Me Up! Tie Me Down! (1990),TieMeUp!TieMeDown!,0.0
+795,"Die xue shuang xiong (Killer, The) (1989)",Diexueshuangxiong,0.0
+796,Gaslight (1944),Gaslight,0.02264
+797,8 1/2 (1963),81/2,-0.07222
+798,"Fast, Cheap & Out of Control (1997)",FastCheap&OutofControl,0.0
+799,Fathers' Day (1997),Fathers'Day,0.62358
+800,Mrs. Dalloway (1997),Mrs.Dalloway,-0.2668
+801,Fire Down Below (1997),FireDownBelow,0.0
+802,Grumpier Old Men (1995),GrumpierOldMen,0.0
+803,Jury Duty (1995),JuryDuty,0.35944
+804,Lassie (1994),Lassie,0.2385
+805,Little Big League (1994),LittleBigLeague,0.068033333
+806,Homeward Bound II: Lost in San Francisco (1996),HomewardBoundII:LostinSanFrancisco,0.0
+807,Cool Runnings (1993),CoolRunnings,0.32288
+808,Drop Dead Fred (1991),DropDeadFred,0.18584
+809,Grease 2 (1982),Grease2,0.30564
+810,Switchback (1997),Switchback,0.33518
+811,Hamlet (1996),Hamlet,0.3899
+812,Two if by Sea (1996),TwoifbySea,0.24668
+813,Forget Paris (1995),ForgetParis,0.0
+814,Just Cause (1995),JustCause,0.06116
+815,Rent-a-Kid (1995),Rent-a-Kid,0.0658
+816,Fearless (1993),Fearless,0.64064
+817,Malice (1993),Malice,-0.16006
+818,Multiplicity (1996),Multiplicity,0.31678
+819,She's the One (1996),She'stheOne,0.0
+820,House Arrest (1996),HouseArrest,0.20095
+821,Dracula: Dead and Loving It (1995),Dracula:DeadandLovingIt,0.0
+822,Now and Then (1995),NowandThen,-0.1451
+823,Mr. Wrong (1996),Mr.Wrong,-0.50834
+824,Cronos (1992),Cronos,0.26688
+825,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),Don'tBeaMenacetoSouthCentralWhileDrinkingYourJuiceintheHood,0.0
+826,Four Days in September (1997),FourDaysinSeptember,0.0
+827,Crossfire (1947),Crossfire,0.03524
+828,Koyaanisqatsi (1983),Koyaanisqatsi,0.33024
+829,Balto (1995),Balto,0.66728
+830,Bottle Rocket (1996),BottleRocket,0.03916
+831,Amateur (1994),Amateur,0.2133
+832,Living in Oblivion (1995),LivinginOblivion,-0.3182
+833,Party Girl (1995),PartyGirl,0.54506
+834,Shallow Grave (1994),ShallowGrave,0.130666667
+835,Reality Bites (1994),RealityBites,0.14872
+836,Love and a .45 (1994),Loveanda.45,0.0
+837,Oliver & Company (1988),Oliver&Company,0.17656
+838,Joe's Apartment (1996),Joe'sApartment,0.0
+839,Celestial Clockwork (1994),CelestialClockwork,0.0
+840,Curdled (1996),Curdled,-0.12588
+841,Female Perversions (1996),FemalePerversions,-0.2263
+842,Albino Alligator (1996),AlbinoAlligator,0.183775
+843,Anne Frank Remembered (1995),AnneFrankRemembered,0.6486
+844,Carried Away (1996),CarriedAway,0.15736
+845,It's My Party (1995),It'sMyParty,0.0
+846,Bloodsport 2 (1995),Bloodsport2,0.0
+847,Double Team (1997),DoubleTeam,0.49818
+848,Speed 2: Cruise Control (1997),Speed2:CruiseControl,0.0
+849,Sliver (1993),Sliver,0.19338
+850,Pete's Dragon (1977),Pete'sDragon,0.0
+851,Dear God (1996),DearGod,0.2004
+852,Live Nude Girls (1995),LiveNudeGirls,0.0
+853,High School High (1996),HighSchoolHigh,0.0
+854,Commandments (1997),Commandments,0.2172
+855,"Hate (Haine, La) (1995)",Hate,-0.46268
+856,Flirting With Disaster (1996),FlirtingWithDisaster,0.5859
+857,"Red Firecracker, Green Firecracker (1994)",RedFirecrackerGreenFirecracker,0.0
+858,What Happened Was... (1994),WhatHappenedWas...,0.0
+859,Six Degrees of Separation (1993),SixDegreesofSeparation,0.2502
+860,Two Much (1996),TwoMuch,0.07254
+861,Trust (1990),Trust,0.43804
+862,C'est arriv� pr�s de chez vous (1992),C'estarriv�pr�sdechezvous,0.0
+863,Firestorm (1998),Firestorm,0.11418
+864,Beyond Rangoon (1995),BeyondRangoon,0.0
+865,Feast of July (1995),FeastofJuly,0.0
+866,Death and the Maiden (1994),DeathandtheMaiden,0.0
+867,Tank Girl (1995),TankGirl,0.13394
+868,Double Happiness (1994),DoubleHappiness,0.10115
+869,Cobb (1994),Cobb,0.1847
+870,Mrs. Parker and the Vicious Circle (1994),Mrs.ParkerandtheViciousCircle,0.0
+871,Faithful (1996),Faithful,0.8043
+872,Twelfth Night (1996),TwelfthNight,0.66128
+873,Surviving Picasso (1996),SurvivingPicasso,0.0
+874,Up in Smoke (1978),UpinSmoke,-0.10846
+875,Some Kind of Wonderful (1987),SomeKindofWonderful,0.50988
+876,I'm Not Rappaport (1996),I'mNotRappaport,0.0
+877,They Made Me a Criminal (1939),TheyMadeMeaCriminal,0.0
+878,Heidi Fleiss: Hollywood Madam (1995) ,HeidiFleiss:HollywoodMadam,0.0
+879,Chungking Express (1994),ChungkingExpress,0.54494
+880,Jupiter's Wife (1994),Jupiter'sWife,0.0
+881,Safe (1995),Safe,0.45378
+882,Feeling Minnesota (1996),FeelingMinnesota,0.0
+883,Escape to Witch Mountain (1975),EscapetoWitchMountain,0.0
+884,Get on the Bus (1996),GetontheBus,0.5637
+885,Ghosts of Mississippi (1996),GhostsofMississippi,0.0
+886,Beautiful Thing (1996),BeautifulThing,0.65062
+887,Best Men (1997),BestMen,-0.1079
+888,Hackers (1995),Hackers,0.21888
+889,When We Were Kings (1996),WhenWeWereKings,0.2202
+890,Hard Eight (1996),HardEight,0.32785
+891,Blue Chips (1994),BlueChips,0.4293
+892,Calendar Girl (1993),CalendarGirl,0.1394
+893,My Family (1995),MyFamily,-0.34402
+894,Tom & Viv (1994),Tom&Viv,0.13942
+895,Walkabout (1971),Walkabout,0.5913
+896,Last Dance (1996),LastDance,0.34322
+897,Original Gangstas (1996),OriginalGangstas,0.0
+898,In Love and War (1996),InLoveandWar,0.0386
+899,Backbeat (1993),Backbeat,0.31754
+900,Alphaville (1965),Alphaville,0.06192
+901,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",RendezvousinParis,0.0
+902,Cyclo (1995),Cyclo,0.06234
+903,"Fille seule, La (A Single Girl) (1995)",FilleseuleLa,0.0
+904,Stalker (1979),Stalker,0.0
+905,Love! Valour! Compassion! (1997),Love!Valour!Compassion!,0.8442
+906,Palookaville (1996),Palookaville,0.41922
+907,Phat Beach (1996),PhatBeach,0.501466667
+908,Zeus and Roxanne (1997),ZeusandRoxanne,0.0
+909,Big Bully (1996),BigBully,-0.21965
+910,Love & Human Remains (1993),Love&HumanRemains,0.0
+911,Little Buddha (1993),LittleBuddha,0.0
+912,Fresh (1994),Fresh,0.47764
+913,Spanking the Monkey (1994),SpankingtheMonkey,0.11475
+914,Wild Reeds (1994),WildReeds,0.0
+915,Bliss (1997),Bliss,0.49958
+916,Caught (1996),Caught,0.06328
+917,Hugo Pool (1997),HugoPool,0.0
+918,Welcome To Sarajevo (1997),WelcomeToSarajevo,0.0
+919,Dunston Checks In (1996),DunstonChecksIn,0.3182
+920,Major Payne (1994),MajorPayne,0.25188
+921,Man of the House (1995),ManoftheHouse,0.4201
+922,I Love Trouble (1994),ILoveTrouble,0.0
+923,Cops and Robbersons (1994),CopsandRobbersons,0.0
+924,In the Army Now (1994),IntheArmyNow,0.294866667
+925,Switchblade Sisters (1975),SwitchbladeSisters,0.0
+926,Young Guns II (1990),YoungGunsII,-0.17
+927,Prefontaine (1997),Prefontaine,0.54812
+928,That Old Feeling (1997),ThatOldFeeling,0.0
+929,Before the Rain (Pred dozhdot) (1994),BeforetheRain,0.402
+930,Once Were Warriors (1994),OnceWereWarriors,0.5859
+931,Strawberry and Chocolate (Fresa y chocolate) (1993),StrawberryandChocolate,0.0
+932,"Savage Nights (Nuits fauves, Les) (1992)",SavageNights,0.0
+933,Purple Noon (1960),PurpleNoon,0.0
+934,Cemetery Man (Dellamorte Dellamore) (1994),CemeteryMan,-0.8126
+935,Kim (1950),Kim,0.51865
+936,Marlene Dietrich: Shadow and Light (1996) ,MarleneDietrich:ShadowandLight,0.0
+937,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",MaybeMaybeNot,0.05435
+938,Top Hat (1935),TopHat,0.42678
+939,To Be or Not to Be (1942),ToBeorNottoBe,0.05278
+940,Amos & Andrew (1993),Amos&Andrew,-0.29552
+941,Jade (1995),Jade,0.21546
+942,Kiss of Death (1995),KissofDeath,0.16594
+943,Mixed Nuts (1994),MixedNuts,0.01904
+944,Virtuosity (1995),Virtuosity,0.67856
+945,Blue Sky (1994),BlueSky,0.42908
+946,Flesh and Bone (1993),FleshandBone,0.0
+947,Guilty as Sin (1993),GuiltyasSin,0.0592
+948,In the Realm of the Senses (Ai no corrida) (1976),IntheRealmoftheSenses,0.0
+949,Barb Wire (1996),BarbWire,0.59768
+950,Kissed (1996),Kissed,0.33134
+951,Assassins (1995),Assassins,-0.06942
+952,Friday (1995),Friday,0.43108
+953,Higher Learning (1995),HigherLearning,0.546725
+954,When a Man Loves a Woman (1994),WhenaManLovesaWoman,0.8555
+955,Judgment Night (1993),JudgmentNight,0.3182
+956,King of the Hill (1993),KingoftheHill,0.07988
+957,Angus (1995),Angus,0.23702
+958,Night Falls on Manhattan (1997),NightFallsonManhattan,0.0
+959,Under Siege 2: Dark Territory (1995),UnderSiege2:DarkTerritory,0.0
+960,Poison Ivy II (1995),PoisonIvyII,0.0
+961,Ready to Wear (Pret-A-Porter) (1994),ReadytoWear,0.35934
+962,Marked for Death (1990),MarkedforDeath,0.8079
+963,Madonna: Truth or Dare (1991),Madonna:TruthorDare,0.4588
+964,N�nette et Boni (1996),N�netteetBoni,0.0
+965,Chairman of the Board (1998),ChairmanoftheBoard,0.45292
+966,"Other Voices, Other Rooms (1997)",OtherVoicesOtherRooms,0.0
+967,Twisted (1996),Twisted,-0.04162
+968,Full Speed (1996),FullSpeed,0.00726
+969,Cutthroat Island (1995),CutthroatIsland,0.08885
+970,Ghost in the Shell (Kokaku kidotai) (1995),GhostintheShell,0.0856
+971,Night Flier (1997),NightFlier,0.57285
+972,Metro (1997),Metro,0.46732
+973,Gridlock'd (1997),Gridlock'd,0.5151
+974,Bushwhacked (1995),Bushwhacked,0.07162
+975,Bad Girls (1994),BadGirls,0.10672
+976,Blink (1994),Blink,0.13194
+977,For Love or Money (1993),ForLoveorMoney,0.0
+978,Best of the Best 3: No Turning Back (1995),BestoftheBest3:NoTurningBack,0.0
+979,A Chef in Love (1996),AChefinLove,0.0
+980,"Contempt (M�pris, Le) (1963)",Contempt,-0.70138
+981,Gone Fishin' (1997),GoneFishin',0.34044
+982,Broken English (1996),BrokenEnglish,0.0
+983,Trial and Error (1997),TrialandError,0.3166
+984,Pie in the Sky (1995),PieintheSky,0.48506
+985,Total Eclipse (1995),TotalEclipse,0.527166667
+986,Walking and Talking (1996),WalkingandTalking,0.7408
+987,Foxfire (1996),Foxfire,0.44812
+988,Nothing to Lose (1994),NothingtoLose,0.67192
+989,Star Maps (1997),StarMaps,0.0251
+990,Bread and Chocolate (Pane e cioccolata) (1973),BreadandChocolate,0.0
+991,Clockers (1995),Clockers,0.07224
+992,Bitter Moon (1992),BitterMoon,0.0
+993,Love in the Afternoon (1957),LoveintheAfternoon,0.3974
+994,Life with Mikey (1993),LifewithMikey,0.0
+995,North (1994),North,-0.32408
+996,Talking About Sex (1994),TalkingAboutSex,-0.1779
+997,Color of Night (1994),ColorofNight,0.0
+998,Robocop 3 (1993),Robocop3,-0.03796
+999,Killer (Bulletproof Heart) (1994),Killer,-0.18584
+1000,Sunset Park (1996),SunsetPark,0.357345
+1001,Set It Off (1996),SetItOff,-0.15134
+1002,Selena (1997),Selena,0.22312
+1003,Wild America (1997),WildAmerica,0.4215
+1004,Gang Related (1997),GangRelated,-0.22224
+1005,Manny & Lo (1996),Manny&Lo,0.2298
+1006,Out to Sea (1997),OuttoSea,0.327
+1007,Before and After (1996),BeforeandAfter,0.28264
+1008,Princess Caraboo (1994),PrincessCaraboo,0.0
+1009,Shall We Dance? (1937),ShallWeDance?,0.407266667
+1010,Ed (1996),Ed,-0.2626
+1011,Denise Calls Up (1995),DeniseCallsUp,0.0
+1012,Jack and Sarah (1995),JackandSarah,0.0
+1013,Country Life (1994),CountryLife,0.08544
+1014,Celtic Pride (1996),CelticPride,0.4163
+1015,Star Kid (1997),StarKid,0.0
+1016,Ayn Rand: A Sense of Life (1997),AynRand:ASenseofLife,0.0
+1017,Kicked in the Head (1997),KickedintheHead,0.0
+1018,Indian Summer (1996),IndianSummer,0.15608
+1019,Love Affair (1994),LoveAffair,0.32872
+1020,Penny Serenade (1941),PennySerenade,0.0
+1021,'Til There Was You (1997),'TilThereWasYou,0.93
+1022,Stripes (1981),Stripes,-0.059925
+1023,Late Bloomers (1996),LateBloomers,0.55424
+1024,New York Cop (1996),NewYorkCop,0.0
+1025,National Lampoon's Senior Trip (1995),NationalLampoon'sSeniorTrip,0.0
+1026,Delta of Venus (1994),DeltaofVenus,-0.5106
+1027,Carmen Miranda: Bananas Is My Business (1994),CarmenMiranda:BananasIsMyBusiness,-0.1027
+1028,Babyfever (1994),Babyfever,0.17878
+1029,Waiting to Exhale (1995),WaitingtoExhale,0.050575
+1030,Palmetto (1998),Palmetto,0.30934
+1031,Surviving the Game (1994),SurvivingtheGame,0.471333333
+1032,Inventing the Abbotts (1997),InventingtheAbbotts,0.0
+1033,Catwalk (1995),Catwalk,0.22648
+1034,Homage (1995),Homage,0.27042
+1035,Open Season (1996),OpenSeason,0.02842
+1036,Metisse (Caf� au Lait) (1993),Metisse,0.00954
+1037,Loaded (1994),Loaded,0.2986
+1038,August (1996),August,0.05984
+1039,Boys (1996),Boys,0.04364
+1040,Captives (1994),Captives,0.37064
+1041,Of Love and Shadows (1994),OfLoveandShadows,0.0
+1042,An Unforgettable Summer (1994),AnUnforgettableSummer,0.0
+1043,My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993),MyLifeandTimesWithAntoninArtaud,0.0
+1044,Midnight Dancers (Sibak) (1994),MidnightDancers,0.0
+1045,Somebody to Love (1994),SomebodytoLove,0.04526
+1046,American Buffalo (1996),AmericanBuffalo,0.39202
+1047,Kazaam (1996),Kazaam,-0.32096
+1048,Larger Than Life (1996),LargerThanLife,0.09384
+1049,Two Deaths (1995),TwoDeaths,0.0
+1050,Stefano Quantestorie (1993),StefanoQuantestorie,0.0
+1051,Hedd Wyn (1992),HeddWyn,-0.07236
+1052,Lotto Land (1995),LottoLand,0.39784
+1053,Dingo (1992),Dingo,0.22814
+1054,Every Other Weekend (1990),EveryOtherWeekend,0.0
+1055,Mille bolle blu (1993),Millebolleblu,0.0
+1056,Crows and Sparrows (1949),CrowsandSparrows,0.0
+1057,Lover's Knot (1996),Lover'sKnot,0.0
+1058,Shadow of Angels (Schatten der Engel) (1976),ShadowofAngels,0.33055
+1059,1-900 (1994),1-900,0.33936
+1060,Venice/Venice (1992),Venice/Venice,0.01712
+1061,Infinity (1996),Infinity,-0.03792
+1062,Ed's Next Move (1996),Ed'sNextMove,0.0
+1063,For the Moment (1994),FortheMoment,0.0
+1064,The Deadly Cure (1996),TheDeadlyCure,0.0
+1065,Boys in Venice (1996),BoysinVenice,0.0
+1066,American Strays (1996),AmericanStrays,0.0
+1067,Bird of Prey (1996),BirdofPrey,0.26418
+1068,Johnny 100 Pesos (1993),Johnny100Pesos,0.0
+1069,JLG/JLG - autoportrait de d�cembre (1994),JLG/JLG-autoportraitded�cembre,0.0
+1070,Faust (1994),Faust,0.15348
+1071,Mina Tannenbaum (1994),MinaTannenbaum,0.0
+1072,I Can't Sleep (J'ai pas sommeil) (1994),ICan'tSleep,0.0
+1073,Good Morning (1971),GoodMorning,0.10534
+1074,Falling in Love Again (1980),FallinginLoveAgain,0.7096
+1075,Meet Wally Sparks (1997),MeetWallySparks,0.0
+1076,Hotel de Love (1996),HoteldeLove,0.0
+1077,Rhyme & Reason (1997),Rhyme&Reason,0.28644
+1078,Love and Other Catastrophes (1996),LoveandOtherCatastrophes,0.0
+1079,Hollow Reed (1996),HollowReed,0.0
+1080,Losing Chase (1996),LosingChase,0.0
+1081,"Bonheur, Le (1965)",BonheurLe,0.0
+1082,Squeeze (1996),Squeeze,0.05804
+1083,Roseanna's Grave (For Roseanna) (1997),Roseanna'sGrave,0.0
+1084,Tetsuo II: Body Hammer (1992),TetsuoII:BodyHammer,0.0
+1085,Fall (1997),Fall,-0.06046
+1086,Gabbeh (1996),Gabbeh,0.1906
+1087,Mondo (1996),Mondo,-0.06668
+1088,For Ever Mozart (1996),ForEverMozart,0.0
+1089,Stag (1997),Stag,0.24444
+1090,Swept from the Sea (1997),SweptfromtheSea,0.0
+1091,Hurricane Streets (1998),HurricaneStreets,0.0
+1092,Stonewall (1995),Stonewall,0.0931
+1093,Of Human Bondage (1934),OfHumanBondage,0.33825
+1094,Anna (1996),Anna,0.11026
+1095,Stranger in the House (1997),StrangerintheHouse,0.0
+1096,Picture Bride (1995),PictureBride,0.0
+1097,M. Butterfly (1993),M.Butterfly,0.26028
+1098,"Ciao, Professore! (1993)",CiaoProfessore!,0.0
+1099,Caro Diario (Dear Diary) (1994),CaroDiario,0.0
+1100,Withnail and I (1987),WithnailandI,0.36542
+1101,Boy's Life 2 (1997),Boy'sLife2,0.0
+1102,When Night Is Falling (1995),WhenNightIsFalling,0.0
+1103,Gordy (1995),Gordy,-0.05722
+1104,Harlem (1993),Harlem,-0.08084
+1105,Barbarella (1968),Barbarella,-0.0084
+1106,Land Before Time III: The Time of the Great Giving (1995) (V),LandBeforeTimeIII:TheTimeoftheGreatGiving,0.0
+1107,Street Fighter (1994),StreetFighter,0.2892
+1108,Coldblooded (1995),Coldblooded,-0.16834
+1109,No Escape (1994),NoEscape,-0.31382
+1110,Highlander III: The Sorcerer (1994),HighlanderIII:TheSorcerer,0.0
+1111,Gilligan's Island: The Movie (1998),Gilligan'sIsland:TheMovie,0.0
+1112,My Crazy Life (Mi vida loca) (1993),MyCrazyLife,0.1366
+1113,Suture (1993),Suture,0.2108
+1114,I Like It Like That (1994),ILikeItLikeThat,0.13385
+1115,I'll Do Anything (1994),I'llDoAnything,0.0
+1116,Grace of My Heart (1996),GraceofMyHeart,0.0
+1117,Drunks (1995),Drunks,-0.0517
+1118,SubUrbia (1997),SubUrbia,-0.05988
+1119,Sliding Doors (1998),SlidingDoors,0.49412
+1120,Ill Gotten Gains (1997),IllGottenGains,-0.6124
+1121,Legal Deceit (1997),LegalDeceit,0.0
+1122,Men of Means (1998),MenofMeans,0.0
+1123,Shooting Fish (1997),ShootingFish,0.0
+1124,"Steal Big, Steal Little (1995)",StealBigStealLittle,0.0
+1125,Mr. Jones (1993),Mr.Jones,0.45186
+1126,House Party 3 (1994),HouseParty3,0.1702
+1127,Panther (1995),Panther,0.09896
+1128,Jason's Lyric (1994),Jason'sLyric,0.0
+1129,Above the Rim (1994),AbovetheRim,0.183775
+1130,Moonlight and Valentino (1995),MoonlightandValentino,0.0
+1131,8 Seconds (1994),8Seconds,0.12856
+1132,That Darn Cat! (1965),ThatDarnCat!,0.24334
+1133,Ladybird Ladybird (1994),LadybirdLadybird,0.0
+1134,"Bye Bye, Love (1995)",ByeByeLove,0.0
+1135,Century (1993),Century,0.4872
+1136,My Favorite Season (1993),MyFavoriteSeason,0.109766667
+1137,Pather Panchali (1955),PatherPanchali,0.357866667
+1138,Golden Earrings (1947),GoldenEarrings,0.0
+1139,Foreign Correspondent (1940),ForeignCorrespondent,0.2312
+1140,Lady of Burlesque (1943),LadyofBurlesque,0.0
+1141,Angel on My Shoulder (1946),AngelonMyShoulder,0.599
+1142,Angel and the Badman (1947),AngelandtheBadman,0.4588
+1143,Beat the Devil (1954),BeattheDevil,0.0
+1144,Love Is All There Is (1996),LoveIsAllThereIs,0.0
+1145,Madame Butterfly (1995),MadameButterfly,0.05078
+1146,Sleepover (1995),Sleepover,0.27372
+1147,Here Comes Cookie (1935),HereComesCookie,0.0
+1148,"Thieves (Voleurs, Les) (1996)",Thieves,0.01915
+1149,"Boys, Les (1997)",BoysLes,0.0
+1150,Last Summer in the Hamptons (1995),LastSummerintheHamptons,0.0
+1151,Margaret's Museum (1995),Margaret'sMuseum,0.0
+1152,Tom and Huck (1995),TomandHuck,0.0
+1153,Gumby: The Movie (1995),Gumby:TheMovie,0.0
+1154,Hideaway (1995),Hideaway,0.26976
+1155,Nina Takes a Lover (1994),NinaTakesaLover,0.0
+1156,Bhaji on the Beach (1993),BhajiontheBeach,0.8158
+1157,Raw Deal (1948),RawDeal,0.25976
+1158,Nightwatch (1997),Nightwatch,0.31684
+1159,Dead Presidents (1995),DeadPresidents,0.00424
+1160,Reckless (1995),Reckless,-0.00596
+1161,Herbie Rides Again (1974),HerbieRidesAgain,0.0
+1162,S.F.W. (1994),S.F.W.,0.3846
+1163,"Colonel Chabert, Le (1994)",ColonelChabertLe,0.0
+1164,Girl in the Cadillac (1995),GirlintheCadillac,0.0
+1165,Even Cowgirls Get the Blues (1993),EvenCowgirlsGettheBlues,0.0
+1166,Germinal (1993),Germinal,0.3243
+1167,Chasers (1994),Chasers,0.31822
+1168,Fausto (1993),Fausto,0.17572
+1169,Tough and Deadly (1995),ToughandDeadly,0.0
+1170,Window to Paris (1994),WindowtoParis,0.0
+1171,"Mostro, Il (1994)",MostroIl,0.0
+1172,Flirt (1995),Flirt,0.06192
+1173,Carpool (1996),Carpool,0.37766
+1174,Farmer & Chase (1995),Farmer&Chase,0.34655
+1175,Grosse Fatigue (1994),GrosseFatigue,0.0
+1176,Santa with Muscles (1996),SantawithMuscles,0.0
+1177,Prisoner of the Mountains (Kavkazsky Plennik) (1996),PrisoneroftheMountains,0.0
+1178,Naked in New York (1994),NakedinNewYork,0.0
+1179,Gold Diggers: The Secret of Bear Mountain (1995),GoldDiggers:TheSecretofBearMountain,0.0
+1180,"Bewegte Mann, Der (1994)",BewegteMannDer,0.0
+1181,Killer: A Journal of Murder (1995),Killer:AJournalofMurder,-0.8402
+1182,Nelly & Monsieur Arnaud (1995),Nelly&MonsieurArnaud,0.0
+1183,Three Lives and Only One Death (1996),ThreeLivesandOnlyOneDeath,0.0
+1184,Getting Even with Dad (1994),GettingEvenwithDad,0.0
+1185,Mad Dog Time (1996),MadDogTime,0.0
+1186,Children of the Revolution (1996),ChildrenoftheRevolution,0.0
+1187,Sprung (1997),Sprung,0.23206
+1188,Dream With the Fishes (1997),DreamWiththeFishes,0.0
+1189,Wings of Courage (1995),WingsofCourage,0.0
+1190,Race the Sun (1996),RacetheSun,0.0
+1191,Losing Isaiah (1995),LosingIsaiah,0.0
+1192,New Jersey Drive (1995),NewJerseyDrive,0.24695
+1193,Mr. Wonderful (1993),Mr.Wonderful,0.6849
+1194,Trial by Jury (1994),TrialbyJury,0.3612
+1195,Kaspar Hauser (1993),KasparHauser,0.0
+1196,Witness (1985),Witness,0.18702
+1197,Senseless (1998),Senseless,-0.12872
+1198,Nowhere (1997),Nowhere,0.21302
+1199,Underground (1995),Underground,0.1285
+1200,Jefferson in Paris (1995),JeffersoninParis,0.0
+1201,Far From Home: The Adventures of Yellow Dog (1995),FarFromHome:TheAdventuresofYellowDog,0.0
+1202,Foreign Student (1994),ForeignStudent,0.0
+1203,I Don't Want to Talk About It (De eso no se habla) (1993),IDon'tWanttoTalkAboutIt,0.128
+1204,Twin Town (1997),TwinTown,0.67678
+1205,"Enfer, L' (1994)",EnferL',0.0
+1206,Aiqing wansui (1994),Aiqingwansui,0.0
+1207,Cosi (1996),Cosi,0.0
+1208,All Over Me (1997),AllOverMe,0.134866667
+1209,Being Human (1993),BeingHuman,0.36582
+1210,Johns (1996),Johns,0.31468
+1211,It Takes Two (1995),ItTakesTwo,0.45306
+1212,Frankie Starlight (1995),FrankieStarlight,0.0
+1213,Shadows (Cienie) (1988),Shadows,0.30164
+1214,The Courtyard (1995),TheCourtyard,0.39578
+1215,Dream Man (1995),DreamMan,0.34778
+1216,Destiny Turns on the Radio (1995),DestinyTurnsontheRadio,0.0
+1217,Safe Passage (1994),SafePassage,0.31786
+1218,Condition Red (1995),ConditionRed,0.0
+1219,Yankee Zulu (1994),YankeeZulu,0.36345
+1220,Aparajito (1956),Aparajito,0.31642
+1221,Hostile Intentions (1994),HostileIntentions,0.0
+1222,Clean Slate (Coup de Torchon) (1981),CleanSlate,0.585
+1223,Tigrero: A Film That Was Never Made (1994),Tigrero:AFilmThatWasNeverMade,0.0
+1224,To Cross the Rubicon (1991),ToCrosstheRubicon,0.0
+1225,Daens (1992),Daens,-0.05902
+1226,Careful (1992),Careful,0.3708
+1227,Vermont Is For Lovers (1992),VermontIsForLovers,0.0
+1228,"Vie est belle, La (Life is Rosey) (1987)",VieestbelleLa,0.0
+1229,Quartier Mozart (1992),QuartierMozart,0.0
+1230,Touki Bouki (Journey of the Hyena) (1973),ToukiBouki,0.0
+1231,Wend Kuuni (God's Gift) (1982),WendKuuni,0.0
+1232,Spirits of the Dead (Tre passi nel delirio) (1968),SpiritsoftheDead,0.0
+1233,Pharaoh's Army (1995),Pharaoh'sArmy,0.0
+1234,"I, Worst of All (Yo, la peor de todas) (1990)",IWorstofAll,0.0
+1235,"Death in the Garden (Mort en ce jardin, La) (1956)",DeathintheGarden,0.0
+1236,"Collectionneuse, La (1967)",CollectionneuseLa,0.0
+1237,Baton Rouge (1988),BatonRouge,0.08668
+1238,Liebelei (1933),Liebelei,0.0
+1239,T-Men (1947),T-Men,-0.045325
+1240,"Symphonie pastorale, La (1946)",SymphoniepastoraleLa,0.0
+1241,American Dream (1990),AmericanDream,0.153
+1242,Lashou shentan (1992),Lashoushentan,0.0
+1243,Terror in a Texas Town (1958),TerrorinaTexasTown,0.0
+1244,Salut cousin! (1996),Salutcousin!,0.0
+1245,Schizopolis (1996),Schizopolis,0.32604
+1246,"To Have, or Not (1995)",ToHaveorNot,0.0
+1247,Duoluo tianshi (1995),Duoluotianshi,0.0
+1248,Death in Brunswick (1991),DeathinBrunswick,0.5719
+1249,Everest (1998),Everest,0.05262
+1250,Shopping (1994),Shopping,0.3822
+1251,Nemesis 2: Nebula (1995),Nemesis2:Nebula,0.0
+1252,Romper Stomper (1992),RomperStomper,0.0
+1253,City of Industry (1997),CityofIndustry,0.32394
+1254,Someone Else's America (1995),SomeoneElse'sAmerica,0.0
+1255,Guantanamera (1994),Guantanamera,0.0912
+1256,Office Killer (1997),OfficeKiller,0.0
+1257,Angela (1995),Angela,0.15298
+1258,He Walked by Night (1948),HeWalkedbyNight,0.0
+1259,Love Serenade (1996),LoveSerenade,0.0
+1260,Deceiver (1997),Deceiver,-0.0013
+1261,Hurricane Streets (1998),HurricaneStreets,0.0
+1262,Buddy (1997),Buddy,0.465
+1263,B*A*P*S (1997),B*A*P*S,0.39994
+1264,"Truth or Consequences, N.M. (1997)",TruthorConsequencesN.M.,0.0
+1265,Intimate Relations (1996),IntimateRelations,0.0
+1266,Tokyo Fist (1995),TokyoFist,0.0
+1267,Warriors of Virtue (1997),WarriorsofVirtue,0.0
+1268,Desert Winds (1995),DesertWinds,0.7096
+1269,Hugo Pool (1997),HugoPool,0.0
+1270,King of New York (1990),KingofNewYork,0.0775
+1271,All Things Fair (1996),AllThingsFair,0.0
+1272,Butterfly Kiss (1995),ButterflyKiss,0.18804
+1273,"Paris, France (1993)",ParisFrance,0.2234
+1274,"C�r�monie, La (1995)",C�r�monieLa,0.0
+1275,Hush (1998),Hush,0.20824
+1276,Nightwatch (1997),Nightwatch,0.31684
+1277,Nobody Loves Me (Keiner liebt mich) (1994),NobodyLovesMe,0.142975
+1278,Lamerica (1994),Lamerica,0.32074
+1279,Nico Icon (1995),NicoIcon,0.24695
+1280,Land and Freedom (Tierra y libertad) (1995),LandandFreedom,0.0
+1281,� k�ldum klaka (Cold Fever) (1994),�k�ldumklaka,0.0
+1282,Etz Hadomim Tafus (Under the Domin Tree) (1994),EtzHadomimTafus,0.0
+1283,Two Friends (1986) ,TwoFriends,0.1341
+1284,Brothers in Trouble (1995),BrothersinTrouble,0.0
+1285,Girls Town (1996),GirlsTown,0.13455
+1286,Normal Life (1996),NormalLife,0.4508
+1287,Bitter Sugar (Azucar Amargo) (1996),BitterSugar,0.8271
+1288,Dadetown (1995),Dadetown,0.0
+1289,Some Mother's Son (1996),SomeMother'sSon,0.0
+1290,Angel Baby (1995),AngelBaby,0.18788
+1291,Sudden Manhattan (1996),SuddenManhattan,0.0
+1292,Men With Guns (1997),MenWithGuns,-0.8126
+1293,Hana-bi (1997),Hana-bi,-0.19958
+1294,"Niagara, Niagara (1997)",NiagaraNiagara,0.0
+1295,Temptress Moon (Feng Yue) (1996),TemptressMoon,0.0
+1296,Entertaining Angels: The Dorothy Day Story (1996),EntertainingAngels:TheDorothyDayStory,0.0
+1297,Chairman of the Board (1998),ChairmanoftheBoard,0.45292
+1298,Little City (1998),LittleCity,0.06154
+1299,Target (1995),Target,0.43548
+1300,Getting Away With Murder (1996),GettingAwayWithMurder,0.0
+1301,Small Faces (1995),SmallFaces,0.05702
+1302,Rough Magic (1995),RoughMagic,0.07224
+1303,Nothing Personal (1995),NothingPersonal,0.35608
+1304,8 Heads in a Duffel Bag (1997),8HeadsinaDuffelBag,0.0
+1305,Ripe (1996),Ripe,0.20242
+1306,Wedding Bell Blues (1996),WeddingBellBlues,0.3173
+1307,MURDER and murder (1996),MURDERandmurder,0.0
+1308,Tainted (1998),Tainted,0.38374
+1309,Kika (1993),Kika,-0.04018
+1310,Mirage (1995),Mirage,-0.10464
+1311,Mamma Roma (1962),MammaRoma,0.0
+1312,Sweet Nothing (1995),SweetNothing,0.0
+1313,Mat' i syn (1997),Mat'isyn,0.0
+1314,B. Monkey (1998),B.Monkey,0.23628
+1315,Sliding Doors (1998),SlidingDoors,0.49412
+1316,You So Crazy (1994),YouSoCrazy,0.19125
+1317,Scream of Stone (Schrei aus Stein) (1991),ScreamofStone,0.0
+1318,"Usual Suspects, The (1995)",TheUsualSuspects,0.0
+1319,"White Balloon, The (1995)",TheWhiteBalloon,0.0
+1320,"Birdcage, The (1996)",TheBirdcage,0.52816
+1321,"Brothers McMullen, The (1995)",TheBrothersMcMullen,0.0
+1322,"Doom Generation, The (1995)",TheDoomGeneration,0.0
+1323,"Net, The (1995)",TheNet,0.21092
+1324,"Madness of King George, The (1994)",TheMadnessofKingGeorge,0.0
+1325,"Professional, The (1994)",TheProfessional,0.04986
+1326,"Santa Clause, The (1994)",TheSantaClause,0.0
+1327,"Shawshank Redemption, The (1994)",TheShawshankRedemption,0.16066
+1328,"Crow, The (1994)",TheCrow,0.3654
+1329,"Lion King, The (1994)",TheLionKing,-0.03456
+1330,"Mask, The (1994)",TheMask,0.19734
+1331,"Firm, The (1993)",TheFirm,0.13022
+1332,"Fugitive, The (1993)",TheFugitive,0.15836
+1333,"Hudsucker Proxy, The (1994)",TheHudsuckerProxy,0.25
+1334,"Ref, The (1994)",TheRef,-0.08808
+1335,"Remains of the Day, The (1993)",TheRemainsoftheDay,0.593575
+1336,"Nightmare Before Christmas, The (1993)",TheNightmareBeforeChristmas,0.09176
+1337,"Silence of the Lambs, The (1991)",TheSilenceoftheLambs,-0.5719
+1338,"Aristocats, The (1970)",TheAristocats,0.33002
+1339,"Truth About Cats & Dogs, The (1996)",TheTruthAboutCats&Dogs,0.0
+1340,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",TheHorsemanontheRoof,0.0
+1341,"Haunted World of Edward D. Wood Jr., The (1995)",TheHauntedWorldofEdwardD.WoodJr.,0.0
+1342,"Rock, The (1996)",TheRock,0.32076
+1343,"Cable Guy, The (1996)",TheCableGuy,-0.08854
+1344,"Frighteners, The (1996)",TheFrighteners,0.8176
+1345,"Spitfire Grill, The (1996)",TheSpitfireGrill,0.354133333
+1346,"Godfather, The (1972)",TheGodfather,0.12738
+1347,"Wizard of Oz, The (1939)",TheWizardofOz,0.06364
+1348,"Love Bug, The (1969)",TheLoveBug,0.4456
+1349,"Sound of Music, The (1965)",TheSoundofMusic,0.57982
+1350,"Lawnmower Man, The (1992)",TheLawnmowerMan,-0.049375
+1351,"Long Kiss Goodnight, The (1996)",TheLongKissGoodnight,0.4019
+1352,"Ghost and the Darkness, The (1996)",TheGhostandtheDarkness,0.0
+1353,"Return of the Pink Panther, The (1974)",TheReturnofthePinkPanther,0.0
+1354,"Abyss, The (1989)",TheAbyss,0.00424
+1355,"Wrong Trousers, The (1993)",TheWrongTrousers,0.0
+1356,"Empire Strikes Back, The (1980)",TheEmpireStrikesBack,0.17316
+1357,"Princess Bride, The (1987)",ThePrincessBride,0.30296
+1358,"Good, The Bad and The Ugly, The (1966)",TheGoodTheBadandTheUgly,0.30798
+1359,"Blues Brothers, The (1980)",TheBluesBrothers,0.18862
+1360,"Godfather: Part II, The (1974)",TheGodfather:PartII,0.0
+1361,"Right Stuff, The (1983)",TheRightStuff,0.28544
+1362,"Sting, The (1973)",TheSting,0.62222
+1363,"Terminator, The (1984)",TheTerminator,-0.29838
+1364,"Graduate, The (1967)",TheGraduate,0.21414
+1365,"Bridge on the River Kwai, The (1957)",TheBridgeontheRiverKwai,-0.34185
+1366,"Shining, The (1980)",TheShining,0.31264
+1367,"Unbearable Lightness of Being, The (1988)",TheUnbearableLightnessofBeing,0.0
+1368,"Mirror Has Two Faces, The (1996)",TheMirrorHasTwoFaces,0.29295
+1369,"Last of the Mohicans, The (1992)",TheLastoftheMohicans,-0.06364
+1370,"Devil's Own, The (1997)",TheDevil'sOwn,0.0
+1371,"Fifth Element, The (1997)",TheFifthElement,0.46702
+1372,"Lost World: Jurassic Park, The (1997)",TheLostWorld:JurassicPark,0.24695
+1373,"Pillow Book, The (1995)",ThePillowBook,0.0
+1374,"Hunt for Red October, The (1990)",TheHuntforRedOctober,0.6808
+1375,"Full Monty, The (1997)",TheFullMonty,0.70092
+1376,"River Wild, The (1994)",TheRiverWild,0.0258
+1377,"English Patient, The (1996)",TheEnglishPatient,0.24112
+1378,"Ice Storm, The (1997)",TheIceStorm,0.44005
+1379,"Devil's Advocate, The (1997)",TheDevil'sAdvocate,0.0
+1380,"Rainmaker, The (1997)",TheRainmaker,-0.3548
+1381,"Wings of the Dove, The (1997)",TheWingsoftheDove,0.0
+1382,"Edge, The (1997)",TheEdge,0.33434
+1383,"Game, The (1997)",TheGame,-0.00756
+1384,"House of Yes, The (1997)",TheHouseofYes,0.7906
+1385,"Man Who Knew Too Little, The (1997)",TheManWhoKnewTooLittle,0.0
+1386,"Apostle, The (1997)",TheApostle,0.0
+1387,"Prophecy II, The (1998)",TheProphecyII,-0.08728
+1388,"Wedding Singer, The (1998)",TheWeddingSinger,0.3567
+1389,"Client, The (1994)",TheClient,-0.08895
+1390,"Assignment, The (1997)",TheAssignment,0.268866667
+1391,"Bridges of Madison County, The (1995)",TheBridgesofMadisonCounty,-0.27115
+1392,"Adventures of Priscilla, Queen of the Desert, The (1994)",TheAdventuresofPriscillaQueenoftheDesert,-0.07655
+1393,"Flintstones, The (1994)",TheFlintstones,0.36286
+1394,"Age of Innocence, The (1993)",TheAgeofInnocence,0.180766667
+1395,"Man Without a Face, The (1993)",TheManWithoutaFace,0.0
+1396,"Three Musketeers, The (1993)",TheThreeMusketeers,0.2745
+1397,"Little Rascals, The (1994)",TheLittleRascals,-0.0568
+1398,"Brady Bunch Movie, The (1995)",TheBradyBunchMovie,0.0
+1399,"Nutty Professor, The (1996)",TheNuttyProfessor,0.14445
+1400,"Apple Dumpling Gang, The (1975)",TheAppleDumplingGang,0.0
+1401,"Parent Trap, The (1961)",TheParentTrap,0.2266
+1402,"Transformers: The Movie, The (1986)",TheTransformers:TheMovie,0.0
+1403,"Day the Earth Stood Still, The (1951)",TheDaytheEarthStoodStill,0.44202
+1404,"Amityville Horror, The (1979)",TheAmityvilleHorror,-0.28318
+1405,"Amityville Curse, The (1990)",TheAmityvilleCurse,0.0
+1406,"Birds, The (1963)",TheBirds,-0.15812
+1407,"Blob, The (1958)",TheBlob,-0.2513
+1408,"Body Snatcher, The (1945)",TheBodySnatcher,-0.06774
+1409,"Omen, The (1976)",TheOmen,0.159225
+1410,"Crossing Guard, The (1995)",TheCrossingGuard,0.0
+1411,"Secret of Roan Inish, The (1994)",TheSecretofRoanInish,0.0
+1412,"Jungle Book, The (1994)",TheJungleBook,0.31494
+1413,"First Wives Club, The (1996)",TheFirstWivesClub,0.0
+1414,"Philadelphia Story, The (1940)",ThePhiladelphiaStory,0.4404
+1415,"Apartment, The (1960)",TheApartment,0.20196
+1416,"Maltese Falcon, The (1941)",TheMalteseFalcon,0.31425
+1417,"Adventures of Robin Hood, The (1938)",TheAdventuresofRobinHood,0.88165
+1418,"Thin Man, The (1934)",TheThinMan,0.37464
+1419,"African Queen, The (1951)",TheAfricanQueen,0.2873
+1420,"Candidate, The (1972)",TheCandidate,0.507633333
+1421,"People vs. Larry Flynt, The (1996)",ThePeoplevs.LarryFlynt,0.0
+1422,"Magnificent Seven, The (1954)",TheMagnificentSeven,0.0
+1423,"Third Man, The (1949)",TheThirdMan,-0.0237
+1424,"Treasure of the Sierra Madre, The (1948)",TheTreasureoftheSierraMadre,0.0087
+1425,"Great Escape, The (1963)",TheGreatEscape,-0.0471
+1426,"Deer Hunter, The (1978)",TheDeerHunter,0.388125
+1427,"Great Dictator, The (1940)",TheGreatDictator,-0.08592
+1428,"Big Sleep, The (1946)",TheBigSleep,-0.81098
+1429,"Killing Fields, The (1984)",TheKillingFields,-0.168625
+1430,"Man Who Would Be King, The (1975)",TheManWhoWouldBeKing,0.0
+1431,"Daytrippers, The (1996)",TheDaytrippers,0.0
+1432,"Young Poisoner's Handbook, The (1995)",TheYoungPoisoner'sHandbook,0.0
+1433,"NeverEnding Story III, The (1994)",TheNeverEndingStoryIII,0.0
+1434,"Quick and the Dead, The (1995)",TheQuickandtheDead,0.2263
+1435,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",TheEnglishmanWhoWentUpaHillButCameDownaMountain,0.0
+1436,"Piano, The (1993)",ThePiano,0.5859
+1437,"Secret Garden, The (1993)",TheSecretGarden,0.605525
+1438,"Hour of the Pig, The (1993)",TheHourofthePig,0.0
+1439,"Wild Bunch, The (1969)",TheWildBunch,0.110275
+1440,"Fan, The (1996)",TheFan,0.1564
+1441,"Hunchback of Notre Dame, The (1996)",TheHunchbackofNotreDame,0.04014
+1442,"Big Squeeze, The (1996)",TheBigSqueeze,0.9371
+1443,"39 Steps, The (1935)",The39Steps,0.06134
+1444,"Blue Angel, The (Blaue Engel, Der) (1930)",TheBlueAngel,0.06184
+1445,"Chamber, The (1996)",TheChamber,0.33518
+1446,"Three Caballeros, The (1945)",TheThreeCaballeros,0.455575
+1447,"Sword in the Stone, The (1963)",TheSwordintheStone,0.7783
+1448,"Great Race, The (1965)",TheGreatRace,0.46155
+1449,"Crying Game, The (1992)",TheCryingGame,0.143966667
+1450,"Fog, The (1980)",TheFog,-0.23155
+1451,"Howling, The (1981)",TheHowling,-0.15005
+1452,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",TheReturnofMartinGuerre,0.0
+1453,"Tin Drum, The (Blechtrommel, Die) (1979)",TheTinDrum,0.0
+1454,"Cook the Thief His Wife & Her Lover, The (1989)",TheCooktheThiefHisWife&HerLover,0.0
+1455,"Grifters, The (1990)",TheGrifters,0.0
+1456,"Thin Blue Line, The (1988)",TheThinBlueLine,0.06322
+1457,"Quiet Man, The (1952)",TheQuietMan,0.2494
+1458,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",TheSeventhSeal,0.665066667
+1459,"Manchurian Candidate, The (1962)",TheManchurianCandidate,-0.1806
+1460,"Crucible, The (1996)",TheCrucible,0.14436
+1461,"Jackal, The (1997)",TheJackal,-0.15158
+1462,"American President, The (1995)",TheAmericanPresident,0.0
+1463,"Basketball Diaries, The (1995)",TheBasketballDiaries,0.196366667
+1464,"Browning Version, The (1994)",TheBrowningVersion,0.0
+1465,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",TheWonderfulHorribleLifeofLeniRiefenstahl,0.0
+1466,"House of the Spirits, The (1993)",TheHouseoftheSpirits,0.0
+1467,"Substance of Fire, The (1996)",TheSubstanceofFire,0.0
+1468,"Juror, The (1996)",TheJuror,0.0
+1469,"Last Supper, The (1995)",TheLastSupper,-0.1037
+1470,"Crow: City of Angels, The (1996)",TheCrow:CityofAngels,0.3182
+1471,"Ruling Class, The (1972)",TheRulingClass,-0.22015
+1472,"Saint, The (1997)",TheSaint,0.54994
+1473,"MatchMaker, The (1997)",TheMatchMaker,0.58888
+1474,"Replacement Killers, The (1998)",TheReplacementKillers,0.0
+1475,"Addiction, The (1995)",TheAddiction,0.4795
+1476,"Prophecy, The (1995)",TheProphecy,-0.2831
+1477,"Perez Family, The (1995)",ThePerezFamily,0.0
+1478,"Baby-Sitters Club, The (1995)",TheBaby-SittersClub,0.0
+1479,"Air Up There, The (1994)",TheAirUpThere,0.4404
+1480,"Program, The (1993)",TheProgram,0.12822
+1481,"Shadow, The (1994)",TheShadow,-0.4792
+1482,"Celluloid Closet, The (1995)",TheCelluloidCloset,0.0
+1483,"Great White Hype, The (1996)",TheGreatWhiteHype,0.0
+1484,"Arrival, The (1996)",TheArrival,-0.066
+1485,"Phantom, The (1996)",ThePhantom,0.31684
+1486,"Gay Divorcee, The (1934)",TheGayDivorcee,0.28398
+1487,"Glimmer Man, The (1996)",TheGlimmerMan,0.0
+1488,"Shaggy Dog, The (1959)",TheShaggyDog,0.0
+1489,"Bloody Child, The (1996)",TheBloodyChild,0.0
+1490,"Believers, The (1987)",TheBelievers,-0.296
+1491,"Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",TheGardenofFinzi-Contini,0.0
+1492,"Ice Storm, The (1997)",TheIceStorm,0.44005
+1493,"Whole Wide World, The (1996)",TheWholeWideWorld,0.0
+1494,"Peacemaker, The (1997)",ThePeacemaker,0.1998
+1495,"Tango Lesson, The (1997)",TheTangoLesson,0.0
+1496,"Sweet Hereafter, The (1997)",TheSweetHereafter,0.0
+1497,"Postman, The (1997)",ThePostman,0.58548
+1498,"Winter Guest, The (1997)",TheWinterGuest,0.0
+1499,"Big Lebowski, The (1998)",TheBigLebowski,0.45524
+1500,"City of Lost Children, The (1995)",TheCityofLostChildren,-0.3182
+1501,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",TheFlowerofMySecret,0.0
+1502,"Craft, The (1996)",TheCraft,0.00172
+1503,"Island of Dr. Moreau, The (1996)",TheIslandofDr.Moreau,0.0
+1504,"Funeral, The (1996)",TheFuneral,-0.227175
+1505,"Preacher's Wife, The (1996)",ThePreacher'sWife,0.0
+1506,"Fox and the Hound, The (1981)",TheFoxandtheHound,0.272533333
+1507,"Big Blue, The (Grand bleu, Le) (1988)",TheBigBlue,0.37884
+1508,"Indian in the Cupboard, The (1995)",TheIndianintheCupboard,0.0
+1509,"Inspector General, The (1949)",TheInspectorGeneral,0.0
+1510,"Substitute, The (1996)",TheSubstitute,0.8574
+1511,"Trigger Effect, The (1996)",TheTriggerEffect,0.0
+1512,"Rich Man's Wife, The (1996)",TheRichMan'sWife,0.0
+1513,"Beautician and the Beast, The (1997)",TheBeauticianandtheBeast,0.4939
+1514,"Last Time I Committed Suicide, The (1997)",TheLastTimeICommittedSuicide,0.0
+1515,"Big Green, The (1995)",TheBigGreen,0.0
+1516,"Stupids, The (1996)",TheStupids,0.4201
+1517,"Pest, The (1997)",ThePest,0.27138
+1518,"Lay of the Land, The (1997)",TheLayoftheLand,0.0
+1519,"Shooter, The (1995)",TheShooter,0.1984
+1520,"Beverly Hillbillies, The (1993)",TheBeverlyHillbillies,0.171566667
+1521,"Quest, The (1996)",TheQuest,-0.48018
+1522,"Paper, The (1994)",ThePaper,0.68424
+1523,"Ghost and Mrs. Muir, The (1947)",TheGhostandMrs.Muir,0.0
+1524,"Associate, The (1996)",TheAssociate,-0.00862
+1525,"Pallbearer, The (1996)",ThePallbearer,0.0
+1526,"War, The (1994)",TheWar,0.22685
+1527,"Adventures of Pinocchio, The (1996)",TheAdventuresofPinocchio,0.3182
+1528,"Evening Star, The (1996)",TheEveningStar,0.0
+1529,"Star Maker, The (Uomo delle stelle, L') (1995)",TheStarMaker,0.0
+1530,"Pagemaster, The (1994)",ThePagemaster,0.2556
+1531,"Newton Boys, The (1998)",TheNewtonBoys,0.0
+1532,"Mark of Zorro, The (1940)",TheMarkofZorro,0.0
+1533,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",TheUmbrellasofCherbourg,0.5719
+1534,"Last Time I Saw Paris, The (1954)",TheLastTimeISawParis,0.0
+1535,"Innocents, The (1961)",TheInnocents,0.308633333
+1536,"Old Man and the Sea, The (1958)",TheOldManandtheSea,0.15726
+1537,"Truman Show, The (1998)",TheTrumanShow,0.38164
+1538,"Doors, The (1991)",TheDoors,0.2076
+1539,"Road to Wellville, The (1994)",TheRoadtoWellville,0.0
+1540,"War Room, The (1993)",TheWarRoom,0.24966
+1541,"Quiet Room, The (1996)",TheQuietRoom,0.0
+1542,"Relic, The (1997)",TheRelic,-0.17356
+1543,"Portrait of a Lady, The (1996)",ThePortraitofaLady,0.0
+1544,"Sum of Us, The (1994)",TheSumofUs,0.12008
+1545,"Women, The (1939)",TheWomen,0.349825
+1546,"Cowboy Way, The (1994)",TheCowboyWay,0.0502
+1547,"Endless Summer 2, The (1994)",TheEndlessSummer2,0.0
+1548,"Inkwell, The (1994)",TheInkwell,0.7824
+1549,"Boys of St. Vincent, The (1993)",TheBoysofSt.Vincent,0.0
+1550,"Secret Agent, The (1996)",TheSecretAgent,0.064
+1551,"Scout, The (1994)",TheScout,0.04555
+1552,"Big Bang Theory, The (1994)",TheBigBangTheory,0.49556
+1553,"Van, The (1996)",TheVan,0.13518
+1554,"Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",TheOldLadyWhoWalkedintheSea,0.0
+1555,"Tie That Binds, The (1995)",TheTieThatBinds,0.0
+1556,"Designated Mourner, The (1997)",TheDesignatedMourner,0.0
+1557,"Designated Mourner, The (1997)",TheDesignatedMourner,0.0
+1558,"Run of the Country, The (1995)",TheRunoftheCountry,0.0
+1559,"Grass Harp, The (1995)",TheGrassHarp,0.0
+1560,"Band Wagon, The (1953)",TheBandWagon,-0.1245
+1561,"Getaway, The (1994)",TheGetaway,0.12462
+1562,"Pompatus of Love, The (1996)",ThePompatusofLove,0.296
+1563,"Horse Whisperer, The (1998)",TheHorseWhisperer,0.03485
+1564,"Journey of August King, The (1995)",TheJourneyofAugustKing,0.0
+1565,"Neon Bible, The (1995)",TheNeonBible,0.0
+1566,"Wooden Man's Bride, The (Wu Kui) (1994)",TheWoodenMan'sBride,0.0
+1567,"Low Life, The (1994)",TheLowLife,0.0
+1568,"Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",TheLastKlezmer:LeopoldKozlowskiHisLifeandMusic,0.0
+1569,"Crude Oasis, The (1995)",TheCrudeOasis,0.0
+1570,"Convent, The (Convento, O) (1995)",TheConvent,0.0
+1571,"Story of Xinghua, The (1993)",TheStoryofXinghua,0.0
+1572,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",TheDaytheSunTurnedCold,0.0
+1573,"Ballad of Narayama, The (Narayama Bushiko) (1958)",TheBalladofNarayama,0.0
+1574,"Sexual Life of the Belgians, The (1994)",TheSexualLifeoftheBelgians,0.0
+1575,"Search for One-eye Jimmy, The (1996)",TheSearchforOne-eyeJimmy,0.0
+1576,"Leopard Son, The (1996)",TheLeopardSon,0.0
+1577,"Forbidden Christ, The (Cristo proibito, Il) (1950)",TheForbiddenChrist,0.0
+1578,"Machine, The (1994)",TheMachine,0.178
+1579,"Stranger, The (1994)",TheStranger,0.29224
+1580,"Cement Garden, The (1993)",TheCementGarden,0.0
+1581,"Second Jungle Book: Mowgli & Baloo, The (1997)",TheSecondJungleBook:Mowgli&Baloo,0.0
+1582,"Innocent Sleep, The (1995)",TheInnocentSleep,0.0
+1583,"Locusts, The (1997)",TheLocusts,0.6486
+1584,"Specialist, The (1994)",TheSpecialist,0.6808
+1585,"Swan Princess, The (1994)",TheSwanPrincess,0.36345
+1586,"Next Karate Kid, The (1994)",TheNextKarateKid,0.459125
+1587,"Turning, The (1992)",TheTurning,0.151
+1588,"Joy Luck Club, The (1993)",TheJoyLuckClub,0.0
+1589,"Walking Dead, The (1995)",TheWalkingDead,-0.10964
+1590,"Mighty, The (1998)",TheMighty,0.1828
+1591,"Scarlet Letter, The (1995)",TheScarletLetter,0.0772
+1592,"Outlaw, The (1943)",TheOutlaw,0.71688
+1593,"Stars Fell on Henrietta, The (1995)",TheStarsFellonHenrietta,0.0
+1594,"Saint of Fort Washington, The (1993)",TheSaintofFortWashington,0.0
+1595,"Cure, The (1995)",TheCure,0.289
+1596,"Visitors, The (Visiteurs, Les) (1993)",TheVisitors,0.1672
+1597,"Little Princess, The (1939)",TheLittlePrincess,0.0
+1598,"Gate of Heavenly Peace, The (1995)",TheGateofHeavenlyPeace,0.0
+1599,"Man in the Iron Mask, The (1998)",TheManintheIronMask,0.0
+1600,"Jerky Boys, The (1994)",TheJerkyBoys,0.23575
+1601,"Line King: Al Hirschfeld, The (1996)",TheLineKing:AlHirschfeld,0.0
+1602,"Babysitter, The (1995)",TheBabysitter,-0.04296
+1603,"World of Apu, The (Apur Sansar) (1959)",TheWorldofApu,0.9231
+1604,"Wedding Gift, The (1994)",TheWeddingGift,0.0
+1605,"Fear, The (1995)",TheFear,-0.0739
+1606,"Object of My Affection, The (1998)",TheObjectofMyAffection,0.7269
+1607,"Amazing Panda Adventure, The (1995)",TheAmazingPandaAdventure,0.0
+1608,"Beans of Egypt, Maine, The (1994)",TheBeansofEgyptMaine,0.0
+1609,"Scarlet Letter, The (1926)",TheScarletLetter,0.0772
+1610,"Show, The (1995)",TheShow,0.13846
+1611,"Glass Shield, The (1994)",TheGlassShield,0.0
+1612,"Hunted, The (1995)",TheHunted,-0.0817
+1613,"Underneath, The (1995)",TheUnderneath,0.17
+1614,"Secret Adventures of Tom Thumb, The (1993)",TheSecretAdventuresofTomThumb,0.0
+1615,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",TheEyeofVichy,0.0
+1616,"Promise, The (Versprechen, Das) (1994)",ThePromise,0.56766
+1617,"Man from Down Under, The (1943)",TheManfromDownUnder,0.0
+1618,"Woman in Question, The (1950)",TheWomaninQuestion,0.0
+1619,"Invitation, The (Zaproszenie) (1986)",TheInvitation,0.15125
+1620,"Magic Hour, The (1998)",TheMagicHour,0.0
+1621,"Leading Man, The (1996)",TheLeadingMan,0.0
+1622,"Reluctant Debutante, The (1958)",TheReluctantDebutante,0.0
+1623,"Sixth Man, The (1997)",TheSixthMan,0.32396
+1624,"Wife, The (1995)",TheWife,-0.17758
+1625,"Silence of the Palace, The (Saimt el Qusur) (1994)",TheSilenceofthePalace,0.0
+1626,"Slingshot, The (1993)",TheSlingshot,0.0
+1627,"Eighth Day, The (1996)",TheEighthDay,0.0
+1628,"Butcher Boy, The (1998)",TheButcherBoy,0.0
+1629,"Big One, The (1997)",TheBigOne,0.20254
+1630,"Butcher Boy, The (1998)",TheButcherBoy,0.0
+1631,"Spanish Prisoner, The (1997)",TheSpanishPrisoner,0.0
+1632,"Favor, The (1994)",TheFavor,-0.1295
+1633,"Substance of Fire, The (1996)",TheSubstanceofFire,0.0
+1634,"New Age, The (1994)",TheNewAge,0.29854
+1635,"Next Step, The (1995)",TheNextStep,0.25336
+1636,"Sunchaser, The (1996)",TheSunchaser,0.0
+1637,"War at Home, The (1996)",TheWaratHome,-0.4767
+1638,"Fish Called Wanda, A (1988)",AFishCalledWanda,0.450725
+1639,"Clockwork Orange, A (1971)",AClockworkOrange,0.02756
+1640,"Grand Day Out, A (1992)",AGrandDayOut,0.42305
+1641,"Room with a View, A (1986)",ARoomwithaView,0.32332
+1642,"Nightmare on Elm Street, A (1984)",ANightmareonElmStreet,0.08215
+1643,"Time to Kill, A (1996)",ATimetoKill,-0.00436
+1644,"Close Shave, A (1995)",ACloseShave,0.0
+1645,"Very Brady Sequel, A (1996)",AVeryBradySequel,0.0
+1646,"Bronx Tale, A (1993)",ABronxTale,0.17614
+1647,"Streetcar Named Desire, A (1951)",AStreetcarNamedDesire,0.0
+1648,"Walk in the Clouds, A (1995)",AWalkintheClouds,-0.084
+1649,"Kid in King Arthur's Court, A (1995)",AKidinKingArthur'sCourt,0.0
+1650,"Christmas Carol, A (1938)",AChristmasCarol,0.43738
+1651,"Perfect World, A (1993)",APerfectWorld,0.0129
+1652,"Great Day in Harlem, A (1994)",AGreatDayinHarlem,0.5719
+1653,"Perfect Candidate, A (1996)",APerfectCandidate,0.0
+1654,"Life Less Ordinary, A (1997)",ALifeLessOrdinary,0.29864
+1655,"Thousand Acres, A (1997)",AThousandAcres,0.0
+1656,"Smile Like Yours, A (1997)",ASmileLikeYours,0.6124
+1657,"Month by the Lake, A (1995)",AMonthbytheLake,0.0
+1658,"Simple Twist of Fate, A (1994)",ASimpleTwistofFate,0.0
+1659,"Little Princess, A (1995)",ALittlePrincess,0.318
+1660,"Pyromaniac's Love Story, A (1995)",APyromaniac'sLoveStory,0.0
+1661,"Man of No Importance, A (1994)",AManofNoImportance,0.0
+1662,"Thin Line Between Love and Hate, A (1996)",AThinLineBetweenLoveandHate,0.35705
+1663,"Farewell to Arms, A (1932)",AFarewelltoArms,0.431833333
+1664,"Low Down Dirty Shame, A (1994)",ALowDownDirtyShame,0.0772
+1665,"Letter From Death Row, A (1998)",ALetterFromDeathRow,0.0
+1666,"Family Thing, A (1996)",AFamilyThing,0.0
+1667,"Goofy Movie, A (1995)",AGoofyMovie,0.23338
+1668,"Simple Wish, A (1997)",ASimpleWish,0.0
+1669,"Very Natural Thing, A (1974)",AVeryNaturalThing,0.0
+1670,"Walk in the Sun, A (1945)",AWalkintheSun,0.15928
+1671,"Damsel in Distress, A (1937)",ADamselinDistress,0.0
+1672,"Modern Affair, A (1995)",AModernAffair,0.0
+1673,"Good Man in Africa, A (1994)",AGoodManinAfrica,0.0
+1674,"Hungarian Fairy Tale, A (1987)",AHungarianFairyTale,0.0
+1675,"Price Above Rubies, A (1998)",APriceAboveRubies,0.0
+1676,"Brother's Kiss, A (1997)",ABrother'sKiss,0.0
+1677,"Further Gesture, A (1996)",AFurtherGesture,0.0
+1678,"American Werewolf in London, An (1981)",AnAmericanWerewolfinLondon,0.423266667
+1679,"American in Paris, An (1951)",AnAmericaninParis,0.0
+1680,"Affair to Remember, An (1957)",AnAffairtoRemember,0.75425
+1681,"Awfully Big Adventure, An (1995)",AnAwfullyBigAdventure,0.0

@@ -1,0 +1,18 @@
+Recommender System notes:
+
+Mean was calculated and substracted from original values to normalize the matrix or to remove the skewness.
+
+two method to calculate mean were tried, one with only rated movies skipping nan values, other with 0 in place of nan values. Both resulted in nealry same RMSE value.
+
+SVDS was used to leverage parallel multi core use.
+
+Both normalized and skewed data gave approx same rsme values.
+
+Generated ratings for empty data contains negative values.
+
+As number of latent feature increses , error decreases
+
+Only RMSE error for item originally rated by user was calculated.
+
+
+
