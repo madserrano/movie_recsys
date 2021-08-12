@@ -1,4 +1,4 @@
-# SMA_RecommenderSystem
+# Recommender System using Matrix Factorization and Neural Network
 
 Artificial Intelligence (AI) and Machine Learning (ML) applications have significantly grown over the years. Most business sectors have acquired, and developed systems driven by ML algorithms. The advancement of these systems allowed huge convenience, not only to the businesses but also to the users. The success of existing ML applications opened several possibilities of future enhancements. More research and experiments are being conducted to elevate the competence of the existing ML methods. In this paper, two different approaches in building a Recommender System were evaluated to find out which method will exhibit better performance.
 Traditional Matrix Factorization and Hybrid Recommender (driven by the newly Neural Collaborative Filtering) were the primary methods used and analyzed during development phase.
