@@ -10,4 +10,9 @@ Three experiments were conducted to evaluate the performance of each model.
 
 In conclusion, Hybrid Recommender exhibited better performance than the other method. Thus, it can be a potential method to improve the traditional recommender systems that drive industry today.
 
+## Code Contributors:
+1. https://github.com/madserrano (Twitter Analysis)
+2. https://github.com/iamAjayDahiya (Matrix Factorization)
+3. https://github.com/jonatasaguiar (Hybrid Recommender)
+
 
